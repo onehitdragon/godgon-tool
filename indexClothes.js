@@ -1,7 +1,7 @@
 import { XMLParser } from "fast-xml-parser";
 import fs from "fs";
 import translate from "@iamtraction/google-translate";
-import { format, traitToString } from "./myutil.js";
+import { format, traitToString, calcPrice } from "./myutil.js";
 import notifier from "node-notifier";
 
 const XMLdata = fs.readFileSync("xml/clothes.xml").toString();
@@ -10,6 +10,11 @@ let jObj = parser.parse(XMLdata);
 const jObjDatas = jObj.include.data;
 const result = [];
 const langExisted = new Map();
+const cacheLangArray = JSON.parse(fs.readFileSync("cache/cacheLang.json").toString());
+const cacheLang = new Map();
+cacheLangArray.forEach((cl) => {
+    cacheLang.set(cl.target, cl);
+});
 const resultLang = {
     langItemDataNames: []
 }
@@ -20,23 +25,24 @@ async function start(){
     for(let i = 0; i < jObjDatas.length; i++){
         try{
             const lang = await createClothLang(i, jObjDatas[i].name);
-            result.push(
-                createClothObj(
-                    i,
-                    lang.langId,
-                    jObjDatas[i].needLevel,
-                    jObjDatas[i].trait,
-                    jObjDatas[i].defense,
-                    jObjDatas[i].equipmentImageID,
-                    jObjDatas[i].miniImageID,
-                    jObjDatas[i].price
-                )
+            const cloth = createClothObj(
+                i,
+                lang.langId,
+                jObjDatas[i].needLevel,
+                jObjDatas[i].trait,
+                jObjDatas[i].equipmentImageID,
+                jObjDatas[i].miniImageID
             );
+            const price = calcPrice(cloth);
+            cloth.defense = 0;
+            cloth.price = Math.floor(price);
+            result.push(cloth);
         }
         catch(e){}
     }
     fs.writeFileSync("out/cloth.json", JSON.stringify(result));
     fs.writeFileSync("out/clothLang.json", JSON.stringify(resultLang));
+    fs.writeFileSync("cache/cacheLang.json", JSON.stringify(Array.from(cacheLang.values())));
     console.log(result.length);
     notifier.notify({
         title: 'Run cloth complete',
@@ -49,12 +55,27 @@ async function createClothLang(idx, name){
         return langExisted.get(name);
     }
 
-    const resVi = await translate(name, { to: 'vi', raw: true });
-    const resEn = await translate(name, { to: 'en' });
-    const lang = {
-        langId: "clothLang" + idx,
-        en: format(resEn.text),
-        vi: format(resVi.text)
+    let lang;
+    if(cacheLang.has(name)){
+        lang = {
+            langId: "clothLang" + idx,
+            en: cacheLang.get(name).en,
+            vi: cacheLang.get(name).vi
+        }
+    }
+    else{
+        const resVi = await translate(name, { to: 'vi', raw: true });
+        const resEn = await translate(name, { to: 'en' });
+        lang = {
+            langId: "clothLang" + idx,
+            en: format(resEn.text),
+            vi: format(resVi.text)
+        }
+        cacheLang.set(name, {
+            target: name,
+            en: lang.en,
+            vi: lang.vi
+        });
     }
     langExisted.set(name, lang);
     resultLang.langItemDataNames.push(lang);
@@ -67,9 +88,8 @@ function createClothObj(
     idx,
     langId,
     lv,
-    trait, defense, equipmentImageID,
-    miniImage,
-    price
+    trait, equipmentImageID,
+    miniImage
 ){
     return {
         id: "cloth" + idx,
@@ -79,11 +99,9 @@ function createClothObj(
         equipmentInfo: {
             type: "shirt",
             trait: traitToString(trait),
-            defense: defense,
             animationId: equipmentImageIDToanimationId(equipmentImageID)
         },
-        miniImage: miniImage + "",
-        price: price
+        miniImage: miniImage + ""
     };
 }
 

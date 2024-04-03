@@ -230,4 +230,43 @@ function traitToTraitBonusPrice(trait){
     }
 }
 
-export { format, traitToString, typeToClass, levelAndTypeToAnimationId, calcMinAttackAndMaxAttack, calcPrice }
+function traitToTraitBonusCrit(trait){
+    // common uncommon rare epic legendary
+    switch (trait) {
+        case "common":
+            return 10;
+        case "uncommon":
+            return 20;
+        case "rare":
+            return 30;
+        case "epic":
+            return 40;
+        case "legendary":
+            return 50;
+    }
+}
+
+function calcCrit(glove){
+    const BASE = 0;
+    const lv = glove.lv;
+    const CRIT_INCREASE_PER_LEVEL = 0.5;
+    const traitBonus = traitToTraitBonusCrit(glove.equipmentInfo.trait);
+    let CritResult = BASE + (lv - 1) * CRIT_INCREASE_PER_LEVEL;
+    CritResult += CritResult * (traitBonus / 100);
+
+    return CritResult;
+}
+
+function calcAttackSpeed(glove){
+    const BASE = 0;
+    const lv = glove.lv;
+    const ATTACK_SPEED_INCREASE_PER_LEVEL = 0.4;
+    const traitBonus = traitToTraitBonusCrit(glove.equipmentInfo.trait);
+    let AttackSpeedResult = BASE + (lv - 1) * ATTACK_SPEED_INCREASE_PER_LEVEL;
+    AttackSpeedResult += AttackSpeedResult * (traitBonus / 100);
+
+    return AttackSpeedResult;
+}
+
+export { format, traitToString, typeToClass, levelAndTypeToAnimationId, calcMinAttackAndMaxAttack, calcPrice,
+    calcCrit, calcAttackSpeed }

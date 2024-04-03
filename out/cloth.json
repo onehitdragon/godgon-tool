@@ -7,11 +7,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 53,
             "animationId": "s6"
         },
         "miniImage": "8",
-        "price": 1
+        "price": 100,
+        "defense": 0
     },
     {
         "id": "cloth283",
@@ -21,11 +21,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 93,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 41
+        "price": 1000,
+        "defense": 0
     },
     {
         "id": "cloth284",
@@ -35,11 +35,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 133,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 207
+        "price": 1750,
+        "defense": 0
     },
     {
         "id": "cloth285",
@@ -49,11 +49,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 172,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 590
+        "price": 2500,
+        "defense": 0
     },
     {
         "id": "cloth286",
@@ -63,11 +63,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 212,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 1278
+        "price": 3250,
+        "defense": 0
     },
     {
         "id": "cloth287",
@@ -77,11 +77,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 252,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 2362
+        "price": 4000,
+        "defense": 0
     },
     {
         "id": "cloth288",
@@ -91,11 +91,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 291,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 3932
+        "price": 4750,
+        "defense": 0
     },
     {
         "id": "cloth289",
@@ -105,11 +105,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 331,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 6078
+        "price": 5500,
+        "defense": 0
     },
     {
         "id": "cloth290",
@@ -119,11 +119,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 371,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 8891
+        "price": 6250,
+        "defense": 0
     },
     {
         "id": "cloth291",
@@ -133,11 +133,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 410,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 12459
+        "price": 7000,
+        "defense": 0
     },
     {
         "id": "cloth298",
@@ -147,11 +147,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 67,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 4
+        "price": 375,
+        "defense": 0
     },
     {
         "id": "cloth299",
@@ -161,11 +161,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 116,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 165
+        "price": 1500,
+        "defense": 0
     },
     {
         "id": "cloth300",
@@ -175,11 +175,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 166,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 829
+        "price": 2625,
+        "defense": 0
     },
     {
         "id": "cloth301",
@@ -189,11 +189,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 215,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 2358
+        "price": 3750,
+        "defense": 0
     },
     {
         "id": "cloth302",
@@ -203,11 +203,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 265,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 5111
+        "price": 4875,
+        "defense": 0
     },
     {
         "id": "cloth303",
@@ -217,11 +217,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 314,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 9448
+        "price": 6000,
+        "defense": 0
     },
     {
         "id": "cloth304",
@@ -231,11 +231,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 364,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 15729
+        "price": 7125,
+        "defense": 0
     },
     {
         "id": "cloth305",
@@ -245,11 +245,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 414,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 24313
+        "price": 8250,
+        "defense": 0
     },
     {
         "id": "cloth306",
@@ -259,11 +259,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 463,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 35562
+        "price": 9375,
+        "defense": 0
     },
     {
         "id": "cloth307",
@@ -273,11 +273,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 513,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 49835
+        "price": 10500,
+        "defense": 0
     },
     {
         "id": "cloth314",
@@ -287,11 +287,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 74,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 5
+        "price": 500,
+        "defense": 0
     },
     {
         "id": "cloth315",
@@ -301,11 +301,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 129,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 206
+        "price": 2000,
+        "defense": 0
     },
     {
         "id": "cloth316",
@@ -315,11 +315,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 184,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 1037
+        "price": 3500,
+        "defense": 0
     },
     {
         "id": "cloth317",
@@ -329,11 +329,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 239,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 2948
+        "price": 5000,
+        "defense": 0
     },
     {
         "id": "cloth318",
@@ -343,11 +343,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 294,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 6389
+        "price": 6500,
+        "defense": 0
     },
     {
         "id": "cloth319",
@@ -357,11 +357,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 349,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 11810
+        "price": 8000,
+        "defense": 0
     },
     {
         "id": "cloth320",
@@ -371,11 +371,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 404,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 19661
+        "price": 9500,
+        "defense": 0
     },
     {
         "id": "cloth321",
@@ -385,11 +385,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 459,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 30392
+        "price": 11000,
+        "defense": 0
     },
     {
         "id": "cloth322",
@@ -399,11 +399,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 514,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 44453
+        "price": 12500,
+        "defense": 0
     },
     {
         "id": "cloth323",
@@ -413,11 +413,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 569,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 62294
+        "price": 14000,
+        "defense": 0
     },
     {
         "id": "cloth330",
@@ -427,11 +427,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 81,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 7
+        "price": 625,
+        "defense": 0
     },
     {
         "id": "cloth331",
@@ -441,11 +441,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 142,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 309
+        "price": 2500,
+        "defense": 0
     },
     {
         "id": "cloth332",
@@ -455,11 +455,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 203,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 1555
+        "price": 4375,
+        "defense": 0
     },
     {
         "id": "cloth333",
@@ -469,11 +469,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 264,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 4422
+        "price": 6250,
+        "defense": 0
     },
     {
         "id": "cloth334",
@@ -483,11 +483,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 325,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 9583
+        "price": 8125,
+        "defense": 0
     },
     {
         "id": "cloth335",
@@ -497,11 +497,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 385,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 17715
+        "price": 10000,
+        "defense": 0
     },
     {
         "id": "cloth336",
@@ -511,11 +511,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 446,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 29491
+        "price": 11875,
+        "defense": 0
     },
     {
         "id": "cloth337",
@@ -525,11 +525,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 507,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 45588
+        "price": 13750,
+        "defense": 0
     },
     {
         "id": "cloth338",
@@ -539,11 +539,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 568,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 66679
+        "price": 15625,
+        "defense": 0
     },
     {
         "id": "cloth339",
@@ -553,11 +553,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 628,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 93441
+        "price": 17500,
+        "defense": 0
     },
     {
         "id": "cloth346",
@@ -567,11 +567,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 86,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 7
+        "price": 625,
+        "defense": 0
     },
     {
         "id": "cloth347",
@@ -581,11 +581,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 149,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 309
+        "price": 2500,
+        "defense": 0
     },
     {
         "id": "cloth348",
@@ -595,11 +595,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 213,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 1555
+        "price": 4375,
+        "defense": 0
     },
     {
         "id": "cloth349",
@@ -609,11 +609,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 277,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 4422
+        "price": 6250,
+        "defense": 0
     },
     {
         "id": "cloth350",
@@ -623,11 +623,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 341,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 9583
+        "price": 8125,
+        "defense": 0
     },
     {
         "id": "cloth351",
@@ -637,11 +637,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 404,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 17715
+        "price": 10000,
+        "defense": 0
     },
     {
         "id": "cloth352",
@@ -651,11 +651,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 468,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 29491
+        "price": 11875,
+        "defense": 0
     },
     {
         "id": "cloth353",
@@ -665,11 +665,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 532,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 45588
+        "price": 13750,
+        "defense": 0
     },
     {
         "id": "cloth354",
@@ -679,11 +679,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 596,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 66679
+        "price": 15625,
+        "defense": 0
     },
     {
         "id": "cloth355",
@@ -693,11 +693,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 659,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 93441
+        "price": 17500,
+        "defense": 0
     },
     {
         "id": "cloth362",
@@ -707,11 +707,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 96,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 10
+        "price": 750,
+        "defense": 0
     },
     {
         "id": "cloth363",
@@ -721,11 +721,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 168,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 412
+        "price": 3000,
+        "defense": 0
     },
     {
         "id": "cloth364",
@@ -735,11 +735,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 239,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 2074
+        "price": 5250,
+        "defense": 0
     },
     {
         "id": "cloth365",
@@ -749,11 +749,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 311,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 5896
+        "price": 7500,
+        "defense": 0
     },
     {
         "id": "cloth366",
@@ -763,11 +763,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 383,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 12778
+        "price": 9750,
+        "defense": 0
     },
     {
         "id": "cloth367",
@@ -777,11 +777,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 454,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 23620
+        "price": 12000,
+        "defense": 0
     },
     {
         "id": "cloth368",
@@ -791,11 +791,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 526,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 39322
+        "price": 14250,
+        "defense": 0
     },
     {
         "id": "cloth369",
@@ -805,11 +805,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 597,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 60784
+        "price": 16500,
+        "defense": 0
     },
     {
         "id": "cloth370",
@@ -819,11 +819,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 669,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 88906
+        "price": 18750,
+        "defense": 0
     },
     {
         "id": "cloth371",
@@ -833,11 +833,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 741,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 124588
+        "price": 21000,
+        "defense": 0
     },
     {
         "id": "cloth378",
@@ -847,11 +847,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 102,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 10
+        "price": 750,
+        "defense": 0
     },
     {
         "id": "cloth379",
@@ -861,11 +861,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 177,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 412
+        "price": 3000,
+        "defense": 0
     },
     {
         "id": "cloth380",
@@ -875,11 +875,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 253,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 2074
+        "price": 5250,
+        "defense": 0
     },
     {
         "id": "cloth381",
@@ -889,11 +889,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 329,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 5896
+        "price": 7500,
+        "defense": 0
     },
     {
         "id": "cloth382",
@@ -903,11 +903,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 405,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 12778
+        "price": 9750,
+        "defense": 0
     },
     {
         "id": "cloth383",
@@ -917,11 +917,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 481,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 23620
+        "price": 12000,
+        "defense": 0
     },
     {
         "id": "cloth384",
@@ -931,11 +931,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 556,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 39322
+        "price": 14250,
+        "defense": 0
     },
     {
         "id": "cloth385",
@@ -945,11 +945,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 632,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 60784
+        "price": 16500,
+        "defense": 0
     },
     {
         "id": "cloth386",
@@ -959,11 +959,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 708,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 88906
+        "price": 18750,
+        "defense": 0
     },
     {
         "id": "cloth387",
@@ -973,11 +973,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 784,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 124588
+        "price": 21000,
+        "defense": 0
     },
     {
         "id": "cloth394",
@@ -987,11 +987,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 107,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 10
+        "price": 750,
+        "defense": 0
     },
     {
         "id": "cloth395",
@@ -1001,11 +1001,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 188,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 412
+        "price": 3000,
+        "defense": 0
     },
     {
         "id": "cloth396",
@@ -1015,11 +1015,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 268,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 2074
+        "price": 5250,
+        "defense": 0
     },
     {
         "id": "cloth397",
@@ -1029,11 +1029,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 348,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 5896
+        "price": 7500,
+        "defense": 0
     },
     {
         "id": "cloth398",
@@ -1043,11 +1043,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 428,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 12778
+        "price": 9750,
+        "defense": 0
     },
     {
         "id": "cloth399",
@@ -1057,11 +1057,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 508,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 23620
+        "price": 12000,
+        "defense": 0
     },
     {
         "id": "cloth400",
@@ -1071,11 +1071,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 588,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 39322
+        "price": 14250,
+        "defense": 0
     },
     {
         "id": "cloth401",
@@ -1085,11 +1085,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 668,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 60784
+        "price": 16500,
+        "defense": 0
     },
     {
         "id": "cloth402",
@@ -1099,11 +1099,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 748,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 88906
+        "price": 18750,
+        "defense": 0
     },
     {
         "id": "cloth403",
@@ -1113,11 +1113,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 828,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 124588
+        "price": 21000,
+        "defense": 0
     },
     {
         "id": "cloth410",
@@ -1127,11 +1127,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 85,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 26
+        "price": 1700,
+        "defense": 0
     },
     {
         "id": "cloth411",
@@ -1141,11 +1141,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 285,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 6636
+        "price": 3550,
+        "defense": 0
     },
     {
         "id": "cloth412",
@@ -1155,11 +1155,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 285,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 6636
+        "price": 5325,
+        "defense": 0
     },
     {
         "id": "cloth413",
@@ -1169,11 +1169,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 316,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 8294
+        "price": 7100,
+        "defense": 0
     },
     {
         "id": "cloth414",
@@ -1183,11 +1183,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 349,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 12442
+        "price": 8875,
+        "defense": 0
     },
     {
         "id": "cloth415",
@@ -1197,11 +1197,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 245,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 3840
+        "price": 4425,
+        "defense": 0
     },
     {
         "id": "cloth416",
@@ -1211,11 +1211,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 272,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 4800
+        "price": 5900,
+        "defense": 0
     },
     {
         "id": "cloth417",
@@ -1225,11 +1225,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 300,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 7200
+        "price": 7375,
+        "defense": 0
     },
     {
         "id": "cloth418",
@@ -1239,11 +1239,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 334,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 11707
+        "price": 6450,
+        "defense": 0
     },
     {
         "id": "cloth419",
@@ -1253,11 +1253,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 371,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 14633
+        "price": 8600,
+        "defense": 0
     },
     {
         "id": "cloth420",
@@ -1267,11 +1267,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 410,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 21950
+        "price": 10750,
+        "defense": 0
     },
     {
         "id": "cloth421",
@@ -1281,11 +1281,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 384,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 18866
+        "price": 7575,
+        "defense": 0
     },
     {
         "id": "cloth422",
@@ -1295,11 +1295,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 426,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 23582
+        "price": 10100,
+        "defense": 0
     },
     {
         "id": "cloth423",
@@ -1309,11 +1309,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 470,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 35374
+        "price": 12625,
+        "defense": 0
     },
     {
         "id": "cloth424",
@@ -1323,11 +1323,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 443,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 30720
+        "price": 8925,
+        "defense": 0
     },
     {
         "id": "cloth425",
@@ -1337,11 +1337,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 492,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 38400
+        "price": 11900,
+        "defense": 0
     },
     {
         "id": "cloth426",
@@ -1351,11 +1351,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 543,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 57600
+        "price": 14875,
+        "defense": 0
     },
     {
         "id": "cloth427",
@@ -1365,11 +1365,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 275,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 5840
+        "price": 5100,
+        "defense": 0
     },
     {
         "id": "cloth428",
@@ -1379,11 +1379,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 305,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 7300
+        "price": 6800,
+        "defense": 0
     },
     {
         "id": "cloth429",
@@ -1393,11 +1393,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 337,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 10950
+        "price": 8500,
+        "defense": 0
     },
     {
         "id": "cloth430",
@@ -1407,11 +1407,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 225,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 2799
+        "price": 3975,
+        "defense": 0
     },
     {
         "id": "cloth431",
@@ -1421,11 +1421,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 250,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 3499
+        "price": 5300,
+        "defense": 0
     },
     {
         "id": "cloth432",
@@ -1435,11 +1435,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 276,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 5249
+        "price": 6625,
+        "defense": 0
     },
     {
         "id": "cloth433",
@@ -1449,11 +1449,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 344,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 12960
+        "price": 6675,
+        "defense": 0
     },
     {
         "id": "cloth434",
@@ -1463,11 +1463,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 382,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 16200
+        "price": 8900,
+        "defense": 0
     },
     {
         "id": "cloth435",
@@ -1477,11 +1477,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 422,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 24300
+        "price": 11125,
+        "defense": 0
     },
     {
         "id": "cloth436",
@@ -1491,11 +1491,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 364,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 15729
+        "price": 7125,
+        "defense": 0
     },
     {
         "id": "cloth437",
@@ -1505,11 +1505,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 404,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 19661
+        "price": 9500,
+        "defense": 0
     },
     {
         "id": "cloth438",
@@ -1519,11 +1519,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 446,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 29491
+        "price": 11875,
+        "defense": 0
     },
     {
         "id": "cloth439",
@@ -1533,11 +1533,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 433,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 28473
+        "price": 8700,
+        "defense": 0
     },
     {
         "id": "cloth440",
@@ -1547,11 +1547,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 481,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 35591
+        "price": 11600,
+        "defense": 0
     },
     {
         "id": "cloth441",
@@ -1561,11 +1561,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 531,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 53387
+        "price": 14500,
+        "defense": 0
     },
     {
         "id": "cloth442",
@@ -1575,11 +1575,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 215,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 2358
+        "price": 3750,
+        "defense": 0
     },
     {
         "id": "cloth443",
@@ -1589,11 +1589,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 239,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 2948
+        "price": 5000,
+        "defense": 0
     },
     {
         "id": "cloth444",
@@ -1603,11 +1603,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 264,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 4422
+        "price": 6250,
+        "defense": 0
     },
     {
         "id": "cloth466",
@@ -1617,11 +1617,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 424,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 26339
+        "price": 8475,
+        "defense": 0
     },
     {
         "id": "cloth467",
@@ -1631,11 +1631,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 470,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 32923
+        "price": 11300,
+        "defense": 0
     },
     {
         "id": "cloth468",
@@ -1645,11 +1645,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 519,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 49385
+        "price": 14125,
+        "defense": 0
     },
     {
         "id": "cloth469",
@@ -1659,11 +1659,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 513,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 49835
+        "price": 10500,
+        "defense": 0
     },
     {
         "id": "cloth470",
@@ -1673,11 +1673,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 569,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 62294
+        "price": 14000,
+        "defense": 0
     },
     {
         "id": "cloth471",
@@ -1687,11 +1687,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 628,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 93441
+        "price": 17500,
+        "defense": 0
     },
     {
         "id": "cloth478",
@@ -1701,11 +1701,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 414,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 24313
+        "price": 8250,
+        "defense": 0
     },
     {
         "id": "cloth479",
@@ -1715,11 +1715,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 459,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 30392
+        "price": 11000,
+        "defense": 0
     },
     {
         "id": "cloth480",
@@ -1729,11 +1729,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 507,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 45588
+        "price": 13750,
+        "defense": 0
     },
     {
         "id": "cloth490",
@@ -1743,11 +1743,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 53,
             "animationId": "s6"
         },
         "miniImage": "8",
-        "price": 1
+        "price": 100,
+        "defense": 0
     },
     {
         "id": "cloth491",
@@ -1757,11 +1757,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 93,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 41
+        "price": 1000,
+        "defense": 0
     },
     {
         "id": "cloth492",
@@ -1771,11 +1771,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 133,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 207
+        "price": 1750,
+        "defense": 0
     },
     {
         "id": "cloth493",
@@ -1785,11 +1785,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 172,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 590
+        "price": 2500,
+        "defense": 0
     },
     {
         "id": "cloth494",
@@ -1799,11 +1799,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 212,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 1278
+        "price": 3250,
+        "defense": 0
     },
     {
         "id": "cloth495",
@@ -1813,11 +1813,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 252,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 2362
+        "price": 4000,
+        "defense": 0
     },
     {
         "id": "cloth496",
@@ -1827,11 +1827,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 291,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 3932
+        "price": 4750,
+        "defense": 0
     },
     {
         "id": "cloth497",
@@ -1841,11 +1841,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 331,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 6078
+        "price": 5500,
+        "defense": 0
     },
     {
         "id": "cloth498",
@@ -1855,11 +1855,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 371,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 8891
+        "price": 6250,
+        "defense": 0
     },
     {
         "id": "cloth499",
@@ -1869,11 +1869,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 410,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 12459
+        "price": 7000,
+        "defense": 0
     },
     {
         "id": "cloth506",
@@ -1883,11 +1883,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 67,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 4
+        "price": 375,
+        "defense": 0
     },
     {
         "id": "cloth507",
@@ -1897,11 +1897,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 116,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 165
+        "price": 1500,
+        "defense": 0
     },
     {
         "id": "cloth508",
@@ -1911,11 +1911,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 166,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 829
+        "price": 2625,
+        "defense": 0
     },
     {
         "id": "cloth509",
@@ -1925,11 +1925,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 215,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 2358
+        "price": 3750,
+        "defense": 0
     },
     {
         "id": "cloth510",
@@ -1939,11 +1939,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 265,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 5111
+        "price": 4875,
+        "defense": 0
     },
     {
         "id": "cloth511",
@@ -1953,11 +1953,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 314,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 9448
+        "price": 6000,
+        "defense": 0
     },
     {
         "id": "cloth512",
@@ -1967,11 +1967,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 364,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 15729
+        "price": 7125,
+        "defense": 0
     },
     {
         "id": "cloth513",
@@ -1981,11 +1981,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 414,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 24313
+        "price": 8250,
+        "defense": 0
     },
     {
         "id": "cloth514",
@@ -1995,11 +1995,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 463,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 35562
+        "price": 9375,
+        "defense": 0
     },
     {
         "id": "cloth515",
@@ -2009,11 +2009,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 513,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 49835
+        "price": 10500,
+        "defense": 0
     },
     {
         "id": "cloth522",
@@ -2023,11 +2023,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 74,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 5
+        "price": 500,
+        "defense": 0
     },
     {
         "id": "cloth523",
@@ -2037,11 +2037,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 129,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 206
+        "price": 2000,
+        "defense": 0
     },
     {
         "id": "cloth524",
@@ -2051,11 +2051,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 184,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 1037
+        "price": 3500,
+        "defense": 0
     },
     {
         "id": "cloth525",
@@ -2065,11 +2065,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 239,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 2948
+        "price": 5000,
+        "defense": 0
     },
     {
         "id": "cloth526",
@@ -2079,11 +2079,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 294,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 6389
+        "price": 6500,
+        "defense": 0
     },
     {
         "id": "cloth527",
@@ -2093,11 +2093,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 349,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 11810
+        "price": 8000,
+        "defense": 0
     },
     {
         "id": "cloth528",
@@ -2107,11 +2107,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 404,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 19661
+        "price": 9500,
+        "defense": 0
     },
     {
         "id": "cloth529",
@@ -2121,11 +2121,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 459,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 30392
+        "price": 11000,
+        "defense": 0
     },
     {
         "id": "cloth530",
@@ -2135,11 +2135,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 514,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 44453
+        "price": 12500,
+        "defense": 0
     },
     {
         "id": "cloth531",
@@ -2149,11 +2149,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 569,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 62294
+        "price": 14000,
+        "defense": 0
     },
     {
         "id": "cloth538",
@@ -2163,11 +2163,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 81,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 7
+        "price": 625,
+        "defense": 0
     },
     {
         "id": "cloth539",
@@ -2177,11 +2177,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 142,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 309
+        "price": 2500,
+        "defense": 0
     },
     {
         "id": "cloth540",
@@ -2191,11 +2191,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 203,
             "animationId": "s12"
         },
         "miniImage": "8",
-        "price": 1555
+        "price": 4375,
+        "defense": 0
     },
     {
         "id": "cloth541",
@@ -2205,11 +2205,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 264,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 4422
+        "price": 6250,
+        "defense": 0
     },
     {
         "id": "cloth542",
@@ -2219,11 +2219,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 325,
             "animationId": "s11"
         },
         "miniImage": "8",
-        "price": 9583
+        "price": 8125,
+        "defense": 0
     },
     {
         "id": "cloth543",
@@ -2233,11 +2233,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 385,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 17715
+        "price": 10000,
+        "defense": 0
     },
     {
         "id": "cloth544",
@@ -2247,11 +2247,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 446,
             "animationId": "s7"
         },
         "miniImage": "8",
-        "price": 29491
+        "price": 11875,
+        "defense": 0
     },
     {
         "id": "cloth545",
@@ -2261,11 +2261,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 507,
             "animationId": "s8"
         },
         "miniImage": "8",
-        "price": 45588
+        "price": 13750,
+        "defense": 0
     },
     {
         "id": "cloth546",
@@ -2275,11 +2275,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 568,
             "animationId": "s9"
         },
         "miniImage": "8",
-        "price": 66679
+        "price": 15625,
+        "defense": 0
     },
     {
         "id": "cloth547",
@@ -2289,11 +2289,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 628,
             "animationId": "s10"
         },
         "miniImage": "8",
-        "price": 93441
+        "price": 17500,
+        "defense": 0
     },
     {
         "id": "cloth554",
@@ -2303,11 +2303,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 18,
             "animationId": "s1"
         },
         "miniImage": "5",
-        "price": 1
+        "price": 100,
+        "defense": 0
     },
     {
         "id": "cloth559",
@@ -2317,11 +2317,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 84,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 2362
+        "price": 4000,
+        "defense": 0
     },
     {
         "id": "cloth560",
@@ -2331,11 +2331,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 97,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 3932
+        "price": 4750,
+        "defense": 0
     },
     {
         "id": "cloth563",
@@ -2345,11 +2345,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 137,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 12459
+        "price": 7000,
+        "defense": 0
     },
     {
         "id": "cloth575",
@@ -2359,11 +2359,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 105,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 9448
+        "price": 6000,
+        "defense": 0
     },
     {
         "id": "cloth576",
@@ -2373,11 +2373,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 121,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 15729
+        "price": 7125,
+        "defense": 0
     },
     {
         "id": "cloth579",
@@ -2387,11 +2387,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 171,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 49835
+        "price": 10500,
+        "defense": 0
     },
     {
         "id": "cloth591",
@@ -2401,11 +2401,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 114,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 14172
+        "price": 8000,
+        "defense": 0
     },
     {
         "id": "cloth592",
@@ -2415,11 +2415,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 132,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 23593
+        "price": 9500,
+        "defense": 0
     },
     {
         "id": "cloth595",
@@ -2429,11 +2429,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 186,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 74753
+        "price": 14000,
+        "defense": 0
     },
     {
         "id": "cloth607",
@@ -2443,11 +2443,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 124,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 17715
+        "price": 10000,
+        "defense": 0
     },
     {
         "id": "cloth608",
@@ -2457,11 +2457,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 143,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 29491
+        "price": 11875,
+        "defense": 0
     },
     {
         "id": "cloth611",
@@ -2471,11 +2471,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 202,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 93441
+        "price": 17500,
+        "defense": 0
     },
     {
         "id": "cloth623",
@@ -2485,11 +2485,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 129,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 17715
+        "price": 10000,
+        "defense": 0
     },
     {
         "id": "cloth624",
@@ -2499,11 +2499,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 149,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 29491
+        "price": 11875,
+        "defense": 0
     },
     {
         "id": "cloth627",
@@ -2513,11 +2513,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 210,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 93441
+        "price": 17500,
+        "defense": 0
     },
     {
         "id": "cloth639",
@@ -2527,11 +2527,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 141,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 23620
+        "price": 12000,
+        "defense": 0
     },
     {
         "id": "cloth640",
@@ -2541,11 +2541,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 163,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 39322
+        "price": 14250,
+        "defense": 0
     },
     {
         "id": "cloth643",
@@ -2555,11 +2555,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 230,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 124588
+        "price": 21000,
+        "defense": 0
     },
     {
         "id": "cloth655",
@@ -2569,11 +2569,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 147,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 23620
+        "price": 12000,
+        "defense": 0
     },
     {
         "id": "cloth656",
@@ -2583,11 +2583,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 170,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 39322
+        "price": 14250,
+        "defense": 0
     },
     {
         "id": "cloth659",
@@ -2597,11 +2597,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 240,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 124588
+        "price": 21000,
+        "defense": 0
     },
     {
         "id": "cloth671",
@@ -2611,11 +2611,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 154,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 23620
+        "price": 12000,
+        "defense": 0
     },
     {
         "id": "cloth672",
@@ -2625,11 +2625,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 178,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 39322
+        "price": 14250,
+        "defense": 0
     },
     {
         "id": "cloth675",
@@ -2639,11 +2639,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 250,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 124588
+        "price": 21000,
+        "defense": 0
     },
     {
         "id": "cloth684",
@@ -2653,11 +2653,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 15,
             "animationId": "s1"
         },
         "miniImage": "5",
-        "price": 1
+        "price": 100,
+        "defense": 0
     },
     {
         "id": "cloth688",
@@ -2667,11 +2667,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 95,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 6636
+        "price": 5325,
+        "defense": 0
     },
     {
         "id": "cloth689",
@@ -2681,11 +2681,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 103,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 9953
+        "price": 7100,
+        "defense": 0
     },
     {
         "id": "cloth690",
@@ -2695,11 +2695,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 112,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 12442
+        "price": 8875,
+        "defense": 0
     },
     {
         "id": "cloth694",
@@ -2709,11 +2709,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 115,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 12960
+        "price": 6675,
+        "defense": 0
     },
     {
         "id": "cloth695",
@@ -2723,11 +2723,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 125,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 19440
+        "price": 8900,
+        "defense": 0
     },
     {
         "id": "cloth696",
@@ -2737,11 +2737,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 135,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 24300
+        "price": 11125,
+        "defense": 0
     },
     {
         "id": "cloth703",
@@ -2751,11 +2751,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 98,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 7500
+        "price": 5550,
+        "defense": 0
     },
     {
         "id": "cloth704",
@@ -2765,11 +2765,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 107,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 11250
+        "price": 7400,
+        "defense": 0
     },
     {
         "id": "cloth705",
@@ -2779,11 +2779,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 116,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 14062
+        "price": 9250,
+        "defense": 0
     },
     {
         "id": "cloth709",
@@ -2793,11 +2793,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 111,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 11707
+        "price": 6450,
+        "defense": 0
     },
     {
         "id": "cloth710",
@@ -2807,11 +2807,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 121,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 17560
+        "price": 8600,
+        "defense": 0
     },
     {
         "id": "cloth711",
@@ -2821,11 +2821,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 132,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 21950
+        "price": 10750,
+        "defense": 0
     },
     {
         "id": "cloth745",
@@ -2835,11 +2835,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 168,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 46721
+        "price": 10275,
+        "defense": 0
     },
     {
         "id": "cloth746",
@@ -2849,11 +2849,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 183,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 70082
+        "price": 13700,
+        "defense": 0
     },
     {
         "id": "cloth747",
@@ -2863,11 +2863,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 198,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 87602
+        "price": 17125,
+        "defense": 0
     },
     {
         "id": "cloth757",
@@ -2877,11 +2877,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 171,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 49835
+        "price": 10500,
+        "defense": 0
     },
     {
         "id": "cloth758",
@@ -2891,11 +2891,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 186,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 74753
+        "price": 14000,
+        "defense": 0
     },
     {
         "id": "cloth759",
@@ -2905,11 +2905,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 202,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 93441
+        "price": 17500,
+        "defense": 0
     },
     {
         "id": "cloth766",
@@ -2919,11 +2919,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "legendary",
-            "defense": 0,
             "animationId": "s13"
         },
         "miniImage": "5",
-        "price": 0
+        "price": 300,
+        "defense": 0
     },
     {
         "id": "cloth768",
@@ -2933,11 +2933,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 18,
             "animationId": "s1"
         },
         "miniImage": "5",
-        "price": 1
+        "price": 100,
+        "defense": 0
     },
     {
         "id": "cloth773",
@@ -2947,11 +2947,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 84,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 2362
+        "price": 4000,
+        "defense": 0
     },
     {
         "id": "cloth774",
@@ -2961,11 +2961,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 97,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 3932
+        "price": 4750,
+        "defense": 0
     },
     {
         "id": "cloth777",
@@ -2975,11 +2975,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "common",
-            "defense": 137,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 12459
+        "price": 7000,
+        "defense": 0
     },
     {
         "id": "cloth789",
@@ -2989,11 +2989,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 105,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 9448
+        "price": 6000,
+        "defense": 0
     },
     {
         "id": "cloth790",
@@ -3003,11 +3003,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 121,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 15729
+        "price": 7125,
+        "defense": 0
     },
     {
         "id": "cloth793",
@@ -3017,11 +3017,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "uncommon",
-            "defense": 171,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 49835
+        "price": 10500,
+        "defense": 0
     },
     {
         "id": "cloth805",
@@ -3031,11 +3031,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 114,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 14172
+        "price": 8000,
+        "defense": 0
     },
     {
         "id": "cloth806",
@@ -3045,11 +3045,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 132,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 23593
+        "price": 9500,
+        "defense": 0
     },
     {
         "id": "cloth809",
@@ -3059,11 +3059,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "rare",
-            "defense": 186,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 74753
+        "price": 14000,
+        "defense": 0
     },
     {
         "id": "cloth821",
@@ -3073,11 +3073,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 124,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 17715
+        "price": 10000,
+        "defense": 0
     },
     {
         "id": "cloth822",
@@ -3087,11 +3087,11 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 143,
             "animationId": "s14"
         },
         "miniImage": "5",
-        "price": 29491
+        "price": 11875,
+        "defense": 0
     },
     {
         "id": "cloth825",
@@ -3101,10 +3101,10 @@
         "equipmentInfo": {
             "type": "shirt",
             "trait": "epic",
-            "defense": 202,
             "animationId": "s2"
         },
         "miniImage": "5",
-        "price": 93441
+        "price": 17500,
+        "defense": 0
     }
 ]
