@@ -1499,46 +1499,6 @@
             "langId": "lang299",
             "en": "Mage robe",
             "vi": "Mage Robe"
-        },
-        {
-            "langId": "lang300",
-            "en": "Health posion (Small)",
-            "vi": "Bình máu (nhỏ)"
-        },
-        {
-            "langId": "lang301",
-            "en": "Health posion (Medium)",
-            "vi": "Bình máu (vừa)"
-        },
-        {
-            "langId": "lang302",
-            "en": "Health posion (Large)",
-            "vi": "Bình máu (lớn)"
-        },
-        {
-            "langId": "lang303",
-            "en": "Health posion (Huge)",
-            "vi": "Bình máu (siêu cấp)"
-        },
-        {
-            "langId": "lang304",
-            "en": "Mana posion (Small)",
-            "vi": "Bình thể lực (nhỏ)"
-        },
-        {
-            "langId": "lang305",
-            "en": "Mana posion (Medium)",
-            "vi": "Bình thể lực (vừa)"
-        },
-        {
-            "langId": "lang306",
-            "en": "Mana posion (Large)",
-            "vi": "Bình thể lực (lớn)"
-        },
-        {
-            "langId": "lang307",
-            "en": "Mana posion (Huge)",
-            "vi": "Bình thể lực (siêu cấp)"
         }
     ]
 }

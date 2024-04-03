@@ -1,0 +1,44 @@
+{
+    "langItemDataNames": [
+        {
+            "langId": "medicineLang300",
+            "en": "Health posion (Small)",
+            "vi": "Bình máu (nhỏ)"
+        },
+        {
+            "langId": "medicineLang301",
+            "en": "Health posion (Medium)",
+            "vi": "Bình máu (vừa)"
+        },
+        {
+            "langId": "medicineLang302",
+            "en": "Health posion (Large)",
+            "vi": "Bình máu (lớn)"
+        },
+        {
+            "langId": "medicineLang303",
+            "en": "Health posion (Huge)",
+            "vi": "Bình máu (siêu cấp)"
+        },
+        {
+            "langId": "medicineLang304",
+            "en": "Mana posion (Small)",
+            "vi": "Bình thể lực (nhỏ)"
+        },
+        {
+            "langId": "medicineLang305",
+            "en": "Mana posion (Medium)",
+            "vi": "Bình thể lực (vừa)"
+        },
+        {
+            "langId": "medicineLang306",
+            "en": "Mana posion (Large)",
+            "vi": "Bình thể lực (lớn)"
+        },
+        {
+            "langId": "medicineLang307",
+            "en": "Mana posion (Huge)",
+            "vi": "Bình thể lực (siêu cấp)"
+        }
+    ]
+}

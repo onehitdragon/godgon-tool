@@ -1,0 +1,3110 @@
+[
+    {
+        "id": "cloth282",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 1,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 53,
+            "animationId": "s6"
+        },
+        "miniImage": "8",
+        "price": 1
+    },
+    {
+        "id": "cloth283",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 93,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 41
+    },
+    {
+        "id": "cloth284",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 133,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 207
+    },
+    {
+        "id": "cloth285",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 172,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 590
+    },
+    {
+        "id": "cloth286",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 212,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 1278
+    },
+    {
+        "id": "cloth287",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 252,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 2362
+    },
+    {
+        "id": "cloth288",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 291,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 3932
+    },
+    {
+        "id": "cloth289",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 331,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 6078
+    },
+    {
+        "id": "cloth290",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 371,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 8891
+    },
+    {
+        "id": "cloth291",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 410,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 12459
+    },
+    {
+        "id": "cloth298",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 2,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 67,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 4
+    },
+    {
+        "id": "cloth299",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 116,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 165
+    },
+    {
+        "id": "cloth300",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 166,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 829
+    },
+    {
+        "id": "cloth301",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 215,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 2358
+    },
+    {
+        "id": "cloth302",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 265,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 5111
+    },
+    {
+        "id": "cloth303",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 314,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 9448
+    },
+    {
+        "id": "cloth304",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 364,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 15729
+    },
+    {
+        "id": "cloth305",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 414,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 24313
+    },
+    {
+        "id": "cloth306",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 463,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 35562
+    },
+    {
+        "id": "cloth307",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 513,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 49835
+    },
+    {
+        "id": "cloth314",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 2,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 74,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 5
+    },
+    {
+        "id": "cloth315",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 129,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 206
+    },
+    {
+        "id": "cloth316",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 184,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 1037
+    },
+    {
+        "id": "cloth317",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 239,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 2948
+    },
+    {
+        "id": "cloth318",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 294,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 6389
+    },
+    {
+        "id": "cloth319",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 349,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 11810
+    },
+    {
+        "id": "cloth320",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 404,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 19661
+    },
+    {
+        "id": "cloth321",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 459,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 30392
+    },
+    {
+        "id": "cloth322",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 514,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 44453
+    },
+    {
+        "id": "cloth323",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 569,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 62294
+    },
+    {
+        "id": "cloth330",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 2,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 81,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 7
+    },
+    {
+        "id": "cloth331",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 142,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 309
+    },
+    {
+        "id": "cloth332",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 203,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 1555
+    },
+    {
+        "id": "cloth333",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 264,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 4422
+    },
+    {
+        "id": "cloth334",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 325,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 9583
+    },
+    {
+        "id": "cloth335",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 385,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 17715
+    },
+    {
+        "id": "cloth336",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 446,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 29491
+    },
+    {
+        "id": "cloth337",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 507,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 45588
+    },
+    {
+        "id": "cloth338",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 568,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 66679
+    },
+    {
+        "id": "cloth339",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 628,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 93441
+    },
+    {
+        "id": "cloth346",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 2,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 86,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 7
+    },
+    {
+        "id": "cloth347",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 149,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 309
+    },
+    {
+        "id": "cloth348",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 213,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 1555
+    },
+    {
+        "id": "cloth349",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 277,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 4422
+    },
+    {
+        "id": "cloth350",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 341,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 9583
+    },
+    {
+        "id": "cloth351",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 404,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 17715
+    },
+    {
+        "id": "cloth352",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 468,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 29491
+    },
+    {
+        "id": "cloth353",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 532,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 45588
+    },
+    {
+        "id": "cloth354",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 596,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 66679
+    },
+    {
+        "id": "cloth355",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 659,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 93441
+    },
+    {
+        "id": "cloth362",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 2,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 96,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 10
+    },
+    {
+        "id": "cloth363",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 168,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 412
+    },
+    {
+        "id": "cloth364",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 239,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 2074
+    },
+    {
+        "id": "cloth365",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 311,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 5896
+    },
+    {
+        "id": "cloth366",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 383,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 12778
+    },
+    {
+        "id": "cloth367",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 454,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 23620
+    },
+    {
+        "id": "cloth368",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 526,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 39322
+    },
+    {
+        "id": "cloth369",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 597,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 60784
+    },
+    {
+        "id": "cloth370",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 669,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 88906
+    },
+    {
+        "id": "cloth371",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 741,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 124588
+    },
+    {
+        "id": "cloth378",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 2,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 102,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 10
+    },
+    {
+        "id": "cloth379",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 177,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 412
+    },
+    {
+        "id": "cloth380",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 253,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 2074
+    },
+    {
+        "id": "cloth381",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 329,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 5896
+    },
+    {
+        "id": "cloth382",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 405,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 12778
+    },
+    {
+        "id": "cloth383",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 481,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 23620
+    },
+    {
+        "id": "cloth384",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 556,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 39322
+    },
+    {
+        "id": "cloth385",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 632,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 60784
+    },
+    {
+        "id": "cloth386",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 708,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 88906
+    },
+    {
+        "id": "cloth387",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 784,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 124588
+    },
+    {
+        "id": "cloth394",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 2,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 107,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 10
+    },
+    {
+        "id": "cloth395",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 188,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 412
+    },
+    {
+        "id": "cloth396",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 268,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 2074
+    },
+    {
+        "id": "cloth397",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 348,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 5896
+    },
+    {
+        "id": "cloth398",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 428,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 12778
+    },
+    {
+        "id": "cloth399",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 508,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 23620
+    },
+    {
+        "id": "cloth400",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 588,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 39322
+    },
+    {
+        "id": "cloth401",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 668,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 60784
+    },
+    {
+        "id": "cloth402",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 748,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 88906
+    },
+    {
+        "id": "cloth403",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 828,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 124588
+    },
+    {
+        "id": "cloth410",
+        "langId": "clothLang410",
+        "type": "equipment",
+        "lv": 6,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 85,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 26
+    },
+    {
+        "id": "cloth411",
+        "langId": "clothLang411",
+        "type": "equipment",
+        "lv": 24,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 285,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 6636
+    },
+    {
+        "id": "cloth412",
+        "langId": "clothLang412",
+        "type": "equipment",
+        "lv": 24,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 285,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 6636
+    },
+    {
+        "id": "cloth413",
+        "langId": "clothLang412",
+        "type": "equipment",
+        "lv": 24,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 316,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 8294
+    },
+    {
+        "id": "cloth414",
+        "langId": "clothLang412",
+        "type": "equipment",
+        "lv": 24,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 349,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 12442
+    },
+    {
+        "id": "cloth415",
+        "langId": "clothLang415",
+        "type": "equipment",
+        "lv": 20,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 245,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 3840
+    },
+    {
+        "id": "cloth416",
+        "langId": "clothLang415",
+        "type": "equipment",
+        "lv": 20,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 272,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 4800
+    },
+    {
+        "id": "cloth417",
+        "langId": "clothLang415",
+        "type": "equipment",
+        "lv": 20,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 300,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 7200
+    },
+    {
+        "id": "cloth418",
+        "langId": "clothLang418",
+        "type": "equipment",
+        "lv": 29,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 334,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 11707
+    },
+    {
+        "id": "cloth419",
+        "langId": "clothLang418",
+        "type": "equipment",
+        "lv": 29,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 371,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 14633
+    },
+    {
+        "id": "cloth420",
+        "langId": "clothLang418",
+        "type": "equipment",
+        "lv": 29,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 410,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 21950
+    },
+    {
+        "id": "cloth421",
+        "langId": "clothLang421",
+        "type": "equipment",
+        "lv": 34,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 384,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 18866
+    },
+    {
+        "id": "cloth422",
+        "langId": "clothLang421",
+        "type": "equipment",
+        "lv": 34,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 426,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 23582
+    },
+    {
+        "id": "cloth423",
+        "langId": "clothLang421",
+        "type": "equipment",
+        "lv": 34,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 470,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 35374
+    },
+    {
+        "id": "cloth424",
+        "langId": "clothLang424",
+        "type": "equipment",
+        "lv": 40,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 443,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 30720
+    },
+    {
+        "id": "cloth425",
+        "langId": "clothLang424",
+        "type": "equipment",
+        "lv": 40,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 492,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 38400
+    },
+    {
+        "id": "cloth426",
+        "langId": "clothLang424",
+        "type": "equipment",
+        "lv": 40,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 543,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 57600
+    },
+    {
+        "id": "cloth427",
+        "langId": "clothLang427",
+        "type": "equipment",
+        "lv": 23,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 275,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 5840
+    },
+    {
+        "id": "cloth428",
+        "langId": "clothLang427",
+        "type": "equipment",
+        "lv": 23,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 305,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 7300
+    },
+    {
+        "id": "cloth429",
+        "langId": "clothLang427",
+        "type": "equipment",
+        "lv": 23,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 337,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 10950
+    },
+    {
+        "id": "cloth430",
+        "langId": "clothLang430",
+        "type": "equipment",
+        "lv": 18,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 225,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 2799
+    },
+    {
+        "id": "cloth431",
+        "langId": "clothLang430",
+        "type": "equipment",
+        "lv": 18,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 250,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 3499
+    },
+    {
+        "id": "cloth432",
+        "langId": "clothLang430",
+        "type": "equipment",
+        "lv": 18,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 276,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 5249
+    },
+    {
+        "id": "cloth433",
+        "langId": "clothLang433",
+        "type": "equipment",
+        "lv": 30,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 344,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 12960
+    },
+    {
+        "id": "cloth434",
+        "langId": "clothLang433",
+        "type": "equipment",
+        "lv": 30,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 382,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 16200
+    },
+    {
+        "id": "cloth435",
+        "langId": "clothLang433",
+        "type": "equipment",
+        "lv": 30,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 422,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 24300
+    },
+    {
+        "id": "cloth436",
+        "langId": "clothLang436",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 364,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 15729
+    },
+    {
+        "id": "cloth437",
+        "langId": "clothLang436",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 404,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 19661
+    },
+    {
+        "id": "cloth438",
+        "langId": "clothLang436",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 446,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 29491
+    },
+    {
+        "id": "cloth439",
+        "langId": "clothLang439",
+        "type": "equipment",
+        "lv": 39,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 433,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 28473
+    },
+    {
+        "id": "cloth440",
+        "langId": "clothLang439",
+        "type": "equipment",
+        "lv": 39,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 481,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 35591
+    },
+    {
+        "id": "cloth441",
+        "langId": "clothLang439",
+        "type": "equipment",
+        "lv": 39,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 531,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 53387
+    },
+    {
+        "id": "cloth442",
+        "langId": "clothLang442",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 215,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 2358
+    },
+    {
+        "id": "cloth443",
+        "langId": "clothLang442",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 239,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 2948
+    },
+    {
+        "id": "cloth444",
+        "langId": "clothLang442",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 264,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 4422
+    },
+    {
+        "id": "cloth466",
+        "langId": "clothLang466",
+        "type": "equipment",
+        "lv": 38,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 424,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 26339
+    },
+    {
+        "id": "cloth467",
+        "langId": "clothLang466",
+        "type": "equipment",
+        "lv": 38,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 470,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 32923
+    },
+    {
+        "id": "cloth468",
+        "langId": "clothLang466",
+        "type": "equipment",
+        "lv": 38,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 519,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 49385
+    },
+    {
+        "id": "cloth469",
+        "langId": "clothLang469",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 513,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 49835
+    },
+    {
+        "id": "cloth470",
+        "langId": "clothLang469",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 569,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 62294
+    },
+    {
+        "id": "cloth471",
+        "langId": "clothLang469",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 628,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 93441
+    },
+    {
+        "id": "cloth478",
+        "langId": "clothLang478",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 414,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 24313
+    },
+    {
+        "id": "cloth479",
+        "langId": "clothLang478",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 459,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 30392
+    },
+    {
+        "id": "cloth480",
+        "langId": "clothLang478",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 507,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 45588
+    },
+    {
+        "id": "cloth490",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 1,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 53,
+            "animationId": "s6"
+        },
+        "miniImage": "8",
+        "price": 1
+    },
+    {
+        "id": "cloth491",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 93,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 41
+    },
+    {
+        "id": "cloth492",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 133,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 207
+    },
+    {
+        "id": "cloth493",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 172,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 590
+    },
+    {
+        "id": "cloth494",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 212,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 1278
+    },
+    {
+        "id": "cloth495",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 252,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 2362
+    },
+    {
+        "id": "cloth496",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 291,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 3932
+    },
+    {
+        "id": "cloth497",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 331,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 6078
+    },
+    {
+        "id": "cloth498",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 371,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 8891
+    },
+    {
+        "id": "cloth499",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 410,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 12459
+    },
+    {
+        "id": "cloth506",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 2,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 67,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 4
+    },
+    {
+        "id": "cloth507",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 116,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 165
+    },
+    {
+        "id": "cloth508",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 166,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 829
+    },
+    {
+        "id": "cloth509",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 215,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 2358
+    },
+    {
+        "id": "cloth510",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 265,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 5111
+    },
+    {
+        "id": "cloth511",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 314,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 9448
+    },
+    {
+        "id": "cloth512",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 364,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 15729
+    },
+    {
+        "id": "cloth513",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 414,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 24313
+    },
+    {
+        "id": "cloth514",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 463,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 35562
+    },
+    {
+        "id": "cloth515",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 513,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 49835
+    },
+    {
+        "id": "cloth522",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 2,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 74,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 5
+    },
+    {
+        "id": "cloth523",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 129,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 206
+    },
+    {
+        "id": "cloth524",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 184,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 1037
+    },
+    {
+        "id": "cloth525",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 239,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 2948
+    },
+    {
+        "id": "cloth526",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 294,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 6389
+    },
+    {
+        "id": "cloth527",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 349,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 11810
+    },
+    {
+        "id": "cloth528",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 404,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 19661
+    },
+    {
+        "id": "cloth529",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 459,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 30392
+    },
+    {
+        "id": "cloth530",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 514,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 44453
+    },
+    {
+        "id": "cloth531",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 569,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 62294
+    },
+    {
+        "id": "cloth538",
+        "langId": "clothLang282",
+        "type": "equipment",
+        "lv": 2,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 81,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 7
+    },
+    {
+        "id": "cloth539",
+        "langId": "clothLang283",
+        "type": "equipment",
+        "lv": 7,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 142,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 309
+    },
+    {
+        "id": "cloth540",
+        "langId": "clothLang284",
+        "type": "equipment",
+        "lv": 12,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 203,
+            "animationId": "s12"
+        },
+        "miniImage": "8",
+        "price": 1555
+    },
+    {
+        "id": "cloth541",
+        "langId": "clothLang285",
+        "type": "equipment",
+        "lv": 17,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 264,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 4422
+    },
+    {
+        "id": "cloth542",
+        "langId": "clothLang286",
+        "type": "equipment",
+        "lv": 22,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 325,
+            "animationId": "s11"
+        },
+        "miniImage": "8",
+        "price": 9583
+    },
+    {
+        "id": "cloth543",
+        "langId": "clothLang287",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 385,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 17715
+    },
+    {
+        "id": "cloth544",
+        "langId": "clothLang288",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 446,
+            "animationId": "s7"
+        },
+        "miniImage": "8",
+        "price": 29491
+    },
+    {
+        "id": "cloth545",
+        "langId": "clothLang289",
+        "type": "equipment",
+        "lv": 37,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 507,
+            "animationId": "s8"
+        },
+        "miniImage": "8",
+        "price": 45588
+    },
+    {
+        "id": "cloth546",
+        "langId": "clothLang290",
+        "type": "equipment",
+        "lv": 42,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 568,
+            "animationId": "s9"
+        },
+        "miniImage": "8",
+        "price": 66679
+    },
+    {
+        "id": "cloth547",
+        "langId": "clothLang291",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 628,
+            "animationId": "s10"
+        },
+        "miniImage": "8",
+        "price": 93441
+    },
+    {
+        "id": "cloth554",
+        "langId": "clothLang554",
+        "type": "equipment",
+        "lv": 1,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 18,
+            "animationId": "s1"
+        },
+        "miniImage": "5",
+        "price": 1
+    },
+    {
+        "id": "cloth559",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 84,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 2362
+    },
+    {
+        "id": "cloth560",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 97,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 3932
+    },
+    {
+        "id": "cloth563",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 137,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 12459
+    },
+    {
+        "id": "cloth575",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 105,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 9448
+    },
+    {
+        "id": "cloth576",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 121,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 15729
+    },
+    {
+        "id": "cloth579",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 171,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 49835
+    },
+    {
+        "id": "cloth591",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 114,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 14172
+    },
+    {
+        "id": "cloth592",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 132,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 23593
+    },
+    {
+        "id": "cloth595",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 186,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 74753
+    },
+    {
+        "id": "cloth607",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 124,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 17715
+    },
+    {
+        "id": "cloth608",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 143,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 29491
+    },
+    {
+        "id": "cloth611",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 202,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 93441
+    },
+    {
+        "id": "cloth623",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 129,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 17715
+    },
+    {
+        "id": "cloth624",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 149,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 29491
+    },
+    {
+        "id": "cloth627",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 210,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 93441
+    },
+    {
+        "id": "cloth639",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 141,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 23620
+    },
+    {
+        "id": "cloth640",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 163,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 39322
+    },
+    {
+        "id": "cloth643",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 230,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 124588
+    },
+    {
+        "id": "cloth655",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 147,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 23620
+    },
+    {
+        "id": "cloth656",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 170,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 39322
+    },
+    {
+        "id": "cloth659",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 240,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 124588
+    },
+    {
+        "id": "cloth671",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 154,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 23620
+    },
+    {
+        "id": "cloth672",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 178,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 39322
+    },
+    {
+        "id": "cloth675",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 250,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 124588
+    },
+    {
+        "id": "cloth684",
+        "langId": "clothLang684",
+        "type": "equipment",
+        "lv": 1,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 15,
+            "animationId": "s1"
+        },
+        "miniImage": "5",
+        "price": 1
+    },
+    {
+        "id": "cloth688",
+        "langId": "clothLang688",
+        "type": "equipment",
+        "lv": 24,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 95,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 6636
+    },
+    {
+        "id": "cloth689",
+        "langId": "clothLang688",
+        "type": "equipment",
+        "lv": 24,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 103,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 9953
+    },
+    {
+        "id": "cloth690",
+        "langId": "clothLang688",
+        "type": "equipment",
+        "lv": 24,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 112,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 12442
+    },
+    {
+        "id": "cloth694",
+        "langId": "clothLang694",
+        "type": "equipment",
+        "lv": 30,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 115,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 12960
+    },
+    {
+        "id": "cloth695",
+        "langId": "clothLang694",
+        "type": "equipment",
+        "lv": 30,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 125,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 19440
+    },
+    {
+        "id": "cloth696",
+        "langId": "clothLang694",
+        "type": "equipment",
+        "lv": 30,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 135,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 24300
+    },
+    {
+        "id": "cloth703",
+        "langId": "clothLang703",
+        "type": "equipment",
+        "lv": 25,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 98,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 7500
+    },
+    {
+        "id": "cloth704",
+        "langId": "clothLang703",
+        "type": "equipment",
+        "lv": 25,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 107,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 11250
+    },
+    {
+        "id": "cloth705",
+        "langId": "clothLang703",
+        "type": "equipment",
+        "lv": 25,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 116,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 14062
+    },
+    {
+        "id": "cloth709",
+        "langId": "clothLang709",
+        "type": "equipment",
+        "lv": 29,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 111,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 11707
+    },
+    {
+        "id": "cloth710",
+        "langId": "clothLang709",
+        "type": "equipment",
+        "lv": 29,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 121,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 17560
+    },
+    {
+        "id": "cloth711",
+        "langId": "clothLang709",
+        "type": "equipment",
+        "lv": 29,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 132,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 21950
+    },
+    {
+        "id": "cloth745",
+        "langId": "clothLang745",
+        "type": "equipment",
+        "lv": 46,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 168,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 46721
+    },
+    {
+        "id": "cloth746",
+        "langId": "clothLang745",
+        "type": "equipment",
+        "lv": 46,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 183,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 70082
+    },
+    {
+        "id": "cloth747",
+        "langId": "clothLang745",
+        "type": "equipment",
+        "lv": 46,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 198,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 87602
+    },
+    {
+        "id": "cloth757",
+        "langId": "clothLang757",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 171,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 49835
+    },
+    {
+        "id": "cloth758",
+        "langId": "clothLang757",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 186,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 74753
+    },
+    {
+        "id": "cloth759",
+        "langId": "clothLang757",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 202,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 93441
+    },
+    {
+        "id": "cloth766",
+        "langId": "clothLang766",
+        "type": "equipment",
+        "lv": 1,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "legendary",
+            "defense": 0,
+            "animationId": "s13"
+        },
+        "miniImage": "5",
+        "price": 0
+    },
+    {
+        "id": "cloth768",
+        "langId": "clothLang554",
+        "type": "equipment",
+        "lv": 1,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 18,
+            "animationId": "s1"
+        },
+        "miniImage": "5",
+        "price": 1
+    },
+    {
+        "id": "cloth773",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 84,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 2362
+    },
+    {
+        "id": "cloth774",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 97,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 3932
+    },
+    {
+        "id": "cloth777",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "common",
+            "defense": 137,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 12459
+    },
+    {
+        "id": "cloth789",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 105,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 9448
+    },
+    {
+        "id": "cloth790",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 121,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 15729
+    },
+    {
+        "id": "cloth793",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "uncommon",
+            "defense": 171,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 49835
+    },
+    {
+        "id": "cloth805",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 114,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 14172
+    },
+    {
+        "id": "cloth806",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 132,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 23593
+    },
+    {
+        "id": "cloth809",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "rare",
+            "defense": 186,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 74753
+    },
+    {
+        "id": "cloth821",
+        "langId": "clothLang559",
+        "type": "equipment",
+        "lv": 27,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 124,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 17715
+    },
+    {
+        "id": "cloth822",
+        "langId": "clothLang560",
+        "type": "equipment",
+        "lv": 32,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 143,
+            "animationId": "s14"
+        },
+        "miniImage": "5",
+        "price": 29491
+    },
+    {
+        "id": "cloth825",
+        "langId": "clothLang563",
+        "type": "equipment",
+        "lv": 47,
+        "equipmentInfo": {
+            "type": "shirt",
+            "trait": "epic",
+            "defense": 202,
+            "animationId": "s2"
+        },
+        "miniImage": "5",
+        "price": 93441
+    }
+]
