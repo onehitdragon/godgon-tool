@@ -1,6 +1,7 @@
 import { XMLParser } from "fast-xml-parser";
 import fs from "fs";
 import translate from "@iamtraction/google-translate";
+import notifier from "node-notifier";
 
 const XMLdata = fs.readFileSync("weapon.xml").toString();
 const parser = new XMLParser();
@@ -36,6 +37,10 @@ async function start(){
     }
     fs.writeFileSync("out/itemdatas.json", JSON.stringify(result));
     fs.writeFileSync("out/itemdataNames.json", JSON.stringify(resultLang));
+    notifier.notify({
+        title: 'Run complete',
+        message: 'Run complete'
+    });
 }
 
 function createWeaponObj(
@@ -65,22 +70,41 @@ function createWeaponObj(
 }
 
 async function createWeaponLang(idx, name){
-    console.log(name);
     if(langExisted.has(name)){
         return langExisted.get(name);
     }
-    const resVi = await translate(name, { to: 'vi' });
-    const resEn = await translate(name, { to: 'en' });
 
+    const resVi = await translate(name, { to: 'vi', raw: true });
+    const resEn = await translate(name, { to: 'en' });
     const lang = {
         langId: "lang" + idx,
-        en: resEn.text,
-        vi: resVi.text
+        en: format(resEn.text),
+        vi: format(resVi.text)
     }
     langExisted.set(name, lang);
     resultLang.langItemDataNames.push(lang);
 
+    console.log(name);
     return lang;
+}
+
+function format(text){
+    return startCase(text);
+}
+
+function startCase(text = ""){
+    text = text.toLowerCase();
+    const ws = text.split(" ");
+    text = "";
+    for(let i = 0; i < ws.length; i++){
+        const fc = ws[i].slice(0, 1);
+        ws[i] = fc.toUpperCase() + ws[i].slice(1, ws[i].length);
+        text += ws[i];
+        if(i < ws.length - 1){
+            text += ' ';
+        }
+    }
+    return text;
 }
 
 function traitToString(trait){

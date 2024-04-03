@@ -2,158 +2,158 @@
     "langItemDataNames": [
         {
             "langId": "lang0",
-            "en": "dagger",
-            "vi": "dao găm"
+            "en": "Dagger",
+            "vi": "Dao Găm"
         },
         {
             "langId": "lang1",
-            "en": "bronze sword",
-            "vi": "thanh kiếm đồng"
+            "en": "Bronze Sword",
+            "vi": "Thanh Kiếm Đồng"
         },
         {
             "langId": "lang2",
-            "en": "bone sword",
-            "vi": "thanh kiếm xương"
+            "en": "Bone Sword",
+            "vi": "Thanh Kiếm Xương"
         },
         {
             "langId": "lang3",
-            "en": "fish intestine sword",
-            "vi": "thanh kiếm ruột cá"
+            "en": "Fish Intestine Sword",
+            "vi": "Thanh Kiếm Ruột Cá"
         },
         {
             "langId": "lang4",
-            "en": "bronze sword",
-            "vi": "thanh kiếm đồng"
+            "en": "Bronze Sword",
+            "vi": "Thanh Kiếm Đồng"
         },
         {
             "langId": "lang5",
-            "en": "giant sword",
-            "vi": "thanh kiếm khổng lồ"
+            "en": "Giant Sword",
+            "vi": "Thanh Kiếm Khổng Lồ"
         },
         {
             "langId": "lang6",
             "en": "Green Rainbow Sword",
-            "vi": "Thanh kiếm cầu vồng xanh"
+            "vi": "Thanh Kiếm Cầu Vồng Xanh"
         },
         {
             "langId": "lang7",
-            "en": "Floating Cloud and Sunset Sword",
-            "vi": "Mây trôi và hoàng hôn kiếm"
+            "en": "Floating Cloud And Sunset Sword",
+            "vi": "Mây Trôi Và Hoàng Hôn Kiếm"
         },
         {
             "langId": "lang8",
-            "en": "Silver spirit pattern sword",
-            "vi": "Thanh kiếm hoa văn bạc"
+            "en": "Silver Spirit Pattern Sword",
+            "vi": "Thanh Kiếm Hoa Văn Bạc"
         },
         {
             "langId": "lang9",
             "en": "Ancient Cold Double Swords",
-            "vi": "Đôi kiếm lạnh cổ xưa"
+            "vi": "Đôi Kiếm Lạnh Cổ Xưa"
         },
         {
             "langId": "lang10",
             "en": "Holy Silver Dagger",
-            "vi": "Dao găm bạc thần thánh"
+            "vi": "Dao Găm Bạc Thần Thánh"
         },
         {
             "langId": "lang11",
-            "en": "Heaven-Suppressing Sword",
-            "vi": "Thanh kiếm Trấn Thiên"
+            "en": "Heaven-suppressing Sword",
+            "vi": "Thanh Kiếm Trấn Thiên"
         },
         {
             "langId": "lang12",
             "en": "Golden Xuanyuan Sword",
-            "vi": "Thanh kiếm Hiên Viên vàng"
+            "vi": "Thanh Kiếm Hiên Viên Vàng"
         },
         {
             "langId": "lang13",
-            "en": "streamer",
-            "vi": "người truyền phát"
+            "en": "Streamer",
+            "vi": "Người Truyền Phát"
         },
         {
             "langId": "lang14",
-            "en": "Dark gold dragon sword",
-            "vi": "Thanh kiếm rồng vàng đậm"
+            "en": "Dark Gold Dragon Sword",
+            "vi": "Thanh Kiếm Rồng Vàng Đậm"
         },
         {
             "langId": "lang15",
             "en": "Dragon's Back",
-            "vi": "lưng rồng"
+            "vi": "Lưng Rồng"
         },
         {
             "langId": "lang16",
             "en": "Purple Gold Longyuan Sword",
-            "vi": "Thanh kiếm Longyuan vàng tím"
+            "vi": "Thanh Kiếm Longyuan Vàng Tím"
         },
         {
             "langId": "lang154",
-            "en": "Sword of Benevolence",
-            "vi": "Thanh kiếm nhân ái"
+            "en": "Sword Of Benevolence",
+            "vi": "Thanh Kiếm Nhân Ái"
         },
         {
             "langId": "lang155",
-            "en": "Short Sword (Demon)",
-            "vi": "Kiếm ngắn (Quỷ)"
+            "en": "Short Sword (demon)",
+            "vi": "Kiếm Ngắn (quỷ)"
         },
         {
             "langId": "lang156",
-            "en": "Bronze Sword (Demon)",
-            "vi": "Thanh Kiếm Đồng (Quỷ)"
+            "en": "Bronze Sword (demon)",
+            "vi": "Thanh Kiếm Đồng (quỷ)"
         },
         {
             "langId": "lang157",
-            "en": "Bone Sword (Demon)",
-            "vi": "Kiếm Xương (Quỷ)"
+            "en": "Bone Sword (demon)",
+            "vi": "Kiếm Xương (quỷ)"
         },
         {
             "langId": "lang158",
-            "en": "Fish Gut Sword (Demon)",
-            "vi": "Gươm ruột cá (Quỷ)"
+            "en": "Fish Gut Sword (demon)",
+            "vi": "Gươm Ruột Cá (quỷ)"
         },
         {
             "langId": "lang159",
-            "en": "Bronze Sword (Demon)",
-            "vi": "Thanh Kiếm Đồng (Quỷ)"
+            "en": "Bronze Sword (demon)",
+            "vi": "Thanh Kiếm Đồng (quỷ)"
         },
         {
             "langId": "lang160",
-            "en": "Giant sword (demon)",
-            "vi": "Thanh kiếm khổng lồ (quỷ)"
+            "en": "Giant Sword (demon)",
+            "vi": "Thanh Kiếm Khổng Lồ (quỷ)"
         },
         {
             "langId": "lang161",
-            "en": "Green Rainbow Sword (Demon)",
-            "vi": "Thanh kiếm cầu vồng xanh (Quỷ)"
+            "en": "Green Rainbow Sword (demon)",
+            "vi": "Thanh Kiếm Cầu Vồng Xanh (quỷ)"
         },
         {
             "langId": "lang162",
-            "en": "Floating Clouds and Sunset Sword (Demon)",
-            "vi": "Mây bay và hoàng hôn kiếm (Quỷ)"
+            "en": "Floating Clouds And Sunset Sword (demon)",
+            "vi": "Mây Bay Và Hoàng Hôn Kiếm (quỷ)"
         },
         {
             "langId": "lang163",
-            "en": "Silver Spirit Pattern Sword (Demon)",
-            "vi": "Thanh kiếm hoa văn bạc (Quỷ)"
+            "en": "Silver Spirit Pattern Sword (demon)",
+            "vi": "Thanh Kiếm Hoa Văn Bạc (quỷ)"
         },
         {
             "langId": "lang164",
-            "en": "Ancient Cold Double Swords (Demon)",
-            "vi": "Đôi kiếm lạnh cổ xưa (Quỷ)"
+            "en": "Ancient Cold Double Swords (demon)",
+            "vi": "Đôi Kiếm Lạnh Cổ Xưa (quỷ)"
         },
         {
             "langId": "lang165",
-            "en": "Holy Silver Dagger (Demon)",
-            "vi": "Dao găm bạc thánh (Quỷ)"
+            "en": "Holy Silver Dagger (demon)",
+            "vi": "Dao Găm Bạc Thánh (quỷ)"
         },
         {
             "langId": "lang166",
-            "en": "Heaven-Suppressing Sword (Demon)",
-            "vi": "Trấn Thiên Kiếm (Quỷ)"
+            "en": "Heaven-suppressing Sword (demon)",
+            "vi": "Trấn Thiên Kiếm (quỷ)"
         },
         {
             "langId": "lang167",
-            "en": "Golden Xuanyuan Sword (Demon)",
-            "vi": "Golden Hiên Viên Kiếm (Quỷ)"
+            "en": "Golden Xuanyuan Sword (demon)",
+            "vi": "Golden Hiên Viên Kiếm (quỷ)"
         },
         {
             "langId": "lang168",
@@ -162,28 +162,28 @@
         },
         {
             "langId": "lang169",
-            "en": "Dark Gold Wandering Dragon Sword (Demon)",
-            "vi": "Thanh kiếm rồng lang thang màu vàng đậm (Quỷ)"
+            "en": "Dark Gold Wandering Dragon Sword (demon)",
+            "vi": "Thanh Kiếm Rồng Lang Thang Màu Vàng Đậm (quỷ)"
         },
         {
             "langId": "lang170",
-            "en": "Dragon Spine (Demon)",
-            "vi": "Xương Rồng (Quỷ)"
+            "en": "Dragon Spine (demon)",
+            "vi": "Xương Rồng (quỷ)"
         },
         {
             "langId": "lang171",
-            "en": "Purple Gold Longyuan Sword (Demon)",
-            "vi": "Thanh kiếm Longyuan màu vàng tím (Quỷ)"
+            "en": "Purple Gold Longyuan Sword (demon)",
+            "vi": "Thanh Kiếm Longyuan Màu Vàng Tím (quỷ)"
         },
         {
             "langId": "lang308",
-            "en": "Long sword (demon)",
-            "vi": "Thanh kiếm dài (quỷ)"
+            "en": "Long Sword (demon)",
+            "vi": "Thanh Kiếm Dài (quỷ)"
         },
         {
             "langId": "lang309",
             "en": "Gap Sword",
-            "vi": "Khoảng cách kiếm"
+            "vi": "Khoảng Cách Kiếm"
         },
         {
             "langId": "lang310",
@@ -192,33 +192,33 @@
         },
         {
             "langId": "lang313",
-            "en": "Son-Mother Sword",
+            "en": "Son-mother Sword",
             "vi": "Kiếm Con Mẹ"
         },
         {
             "langId": "lang316",
             "en": "Yin Yang Sword",
-            "vi": "Thanh kiếm âm dương"
+            "vi": "Thanh Kiếm Âm Dương"
         },
         {
             "langId": "lang319",
-            "en": "dragon and phoenix sword",
-            "vi": "kiếm rồng và phượng"
+            "en": "Dragon And Phoenix Sword",
+            "vi": "Kiếm Rồng Và Phượng"
         },
         {
             "langId": "lang322",
             "en": "Water Dividing Magic Sword",
-            "vi": "Kiếm thần phân thủy"
+            "vi": "Kiếm Thần Phân Thủy"
         },
         {
             "langId": "lang325",
             "en": "Cold Moon Sword",
-            "vi": "Thanh kiếm trăng lạnh"
+            "vi": "Thanh Kiếm Trăng Lạnh"
         },
         {
             "langId": "lang328",
             "en": "Samsung Magic Sword",
-            "vi": "Thanh kiếm ma thuật Samsung"
+            "vi": "Thanh Kiếm Ma Thuật Samsung"
         },
         {
             "langId": "lang331",
@@ -232,33 +232,33 @@
         },
         {
             "langId": "lang337",
-            "en": "broken willow sword",
-            "vi": "thanh kiếm liễu gãy"
+            "en": "Broken Willow Sword",
+            "vi": "Thanh Kiếm Liễu Gãy"
         },
         {
             "langId": "lang340",
             "en": "Shanyue Demon Sword",
-            "vi": "Shanyue quỷ kiếm"
+            "vi": "Shanyue Quỷ Kiếm"
         },
         {
             "langId": "lang343",
             "en": "Sapphire Sword",
-            "vi": "Thanh kiếm sapphire"
+            "vi": "Thanh Kiếm Sapphire"
         },
         {
             "langId": "lang346",
             "en": "Jinghong Demon Sword",
-            "vi": "Thanh kiếm quỷ Jinghong"
+            "vi": "Thanh Kiếm Quỷ Jinghong"
         },
         {
             "langId": "lang349",
-            "en": "Qingfeng sword",
-            "vi": "thanh kiếm thanh phong"
+            "en": "Qingfeng Sword",
+            "vi": "Thanh Kiếm Thanh Phong"
         },
         {
             "langId": "lang352",
             "en": "Purple Lightning Demon Sword",
-            "vi": "Thanh kiếm quỷ sét màu tím"
+            "vi": "Thanh Kiếm Quỷ Sét Màu Tím"
         },
         {
             "langId": "lang355",
@@ -273,62 +273,62 @@
         {
             "langId": "lang361",
             "en": "Cold Jade Sword",
-            "vi": "Thanh kiếm ngọc lạnh"
+            "vi": "Thanh Kiếm Ngọc Lạnh"
         },
         {
             "langId": "lang364",
             "en": "Chima Magic Sword",
-            "vi": "Thanh kiếm ma thuật Chima"
+            "vi": "Thanh Kiếm Ma Thuật Chima"
         },
         {
             "langId": "lang367",
-            "en": "Ink sword",
-            "vi": "Thanh kiếm mực"
+            "en": "Ink Sword",
+            "vi": "Thanh Kiếm Mực"
         },
         {
             "langId": "lang370",
-            "en": "Soul-Destroying Demonic Sword",
-            "vi": "Thanh kiếm quỷ hủy diệt linh hồn"
+            "en": "Soul-destroying Demonic Sword",
+            "vi": "Thanh Kiếm Quỷ Hủy Diệt Linh Hồn"
         },
         {
             "langId": "lang373",
-            "en": "Star wheel sword",
-            "vi": "Thanh kiếm bánh xe ngôi sao"
+            "en": "Star Wheel Sword",
+            "vi": "Thanh Kiếm Bánh Xe Ngôi Sao"
         },
         {
             "langId": "lang376",
-            "en": "Demon Sword of Transformation",
-            "vi": "Quỷ kiếm biến hình"
+            "en": "Demon Sword Of Transformation",
+            "vi": "Quỷ Kiếm Biến Hình"
         },
         {
             "langId": "lang379",
             "en": "Dragon Shadow Sword",
-            "vi": "Thanh kiếm bóng rồng"
+            "vi": "Thanh Kiếm Bóng Rồng"
         },
         {
             "langId": "lang382",
             "en": "Sacrifice Demonic Sword",
-            "vi": "Hiến tế quỷ kiếm"
+            "vi": "Hiến Tế Quỷ Kiếm"
         },
         {
             "langId": "lang385",
             "en": "Mercy Sword",
-            "vi": "Thanh kiếm thương xót"
+            "vi": "Thanh Kiếm Thương Xót"
         },
         {
             "langId": "lang388",
             "en": "Six Paths Demonic Sword",
-            "vi": "Lục đạo quỷ kiếm"
+            "vi": "Lục Đạo Quỷ Kiếm"
         },
         {
             "langId": "lang391",
-            "en": "Qingjun sword",
-            "vi": "thanh kiếm thanh quân"
+            "en": "Qingjun Sword",
+            "vi": "Thanh Kiếm Thanh Quân"
         },
         {
             "langId": "lang394",
             "en": "Tiantao Magic Sword",
-            "vi": "Thiên Đào thần kiếm"
+            "vi": "Thiên Đào Thần Kiếm"
         },
         {
             "langId": "lang397",
@@ -338,57 +338,57 @@
         {
             "langId": "lang400",
             "en": "Yuheng Demon Sword",
-            "vi": "Thanh kiếm quỷ Yuheng"
+            "vi": "Thanh Kiếm Quỷ Yuheng"
         },
         {
             "langId": "lang403",
-            "en": "sea ​​sword",
-            "vi": "kiếm biển"
+            "en": "Sea ​​sword",
+            "vi": "Kiếm Biển"
         },
         {
             "langId": "lang406",
             "en": "Enlightenment Demon Sword",
-            "vi": "Thanh kiếm quỷ giác ngộ"
+            "vi": "Thanh Kiếm Quỷ Giác Ngộ"
         },
         {
             "langId": "lang409",
-            "en": "Qinglin sword",
-            "vi": "thanh kiếm thanh lâm"
+            "en": "Qinglin Sword",
+            "vi": "Thanh Kiếm Thanh Lâm"
         },
         {
             "langId": "lang412",
-            "en": "magic sword",
-            "vi": "thanh kiếm ma thuật"
+            "en": "Magic Sword",
+            "vi": "Thanh Kiếm Ma Thuật"
         },
         {
             "langId": "lang415",
             "en": "Prisoner Dragon Sword",
-            "vi": "Thanh kiếm tù nhân rồng"
+            "vi": "Thanh Kiếm Tù Nhân Rồng"
         },
         {
             "langId": "lang418",
-            "en": "Refining God and Demon Sword",
-            "vi": "Luyện thần và quỷ kiếm"
+            "en": "Refining God And Demon Sword",
+            "vi": "Luyện Thần Và Quỷ Kiếm"
         },
         {
             "langId": "lang421",
-            "en": "tiger tooth sword",
-            "vi": "thanh kiếm răng hổ"
+            "en": "Tiger Tooth Sword",
+            "vi": "Thanh Kiếm Răng Hổ"
         },
         {
             "langId": "lang424",
             "en": "Secret Magic Sword",
-            "vi": "Thanh kiếm ma thuật bí mật"
+            "vi": "Thanh Kiếm Ma Thuật Bí Mật"
         },
         {
             "langId": "lang427",
-            "en": "Lightning sword",
-            "vi": "Thanh kiếm sét"
+            "en": "Lightning Sword",
+            "vi": "Thanh Kiếm Sét"
         },
         {
             "langId": "lang430",
             "en": "Earth Demon Sword",
-            "vi": "Kiếm quỷ đất"
+            "vi": "Kiếm Quỷ Đất"
         },
         {
             "langId": "lang433",
@@ -398,37 +398,37 @@
         {
             "langId": "lang436",
             "en": "Yichen Demonic Sword",
-            "vi": "Thanh kiếm quỷ Yichen"
+            "vi": "Thanh Kiếm Quỷ Yichen"
         },
         {
             "langId": "lang439",
-            "en": "Tianchi sword",
-            "vi": "Thiên Trì kiếm"
+            "en": "Tianchi Sword",
+            "vi": "Thiên Trì Kiếm"
         },
         {
             "langId": "lang442",
             "en": "Dream Demon Sword",
-            "vi": "Thanh kiếm quỷ trong mơ"
+            "vi": "Thanh Kiếm Quỷ Trong Mơ"
         },
         {
             "langId": "lang445",
-            "en": "Sword of Indulgence",
-            "vi": "Thanh kiếm đam mê"
+            "en": "Sword Of Indulgence",
+            "vi": "Thanh Kiếm Đam Mê"
         },
         {
             "langId": "lang448",
             "en": "Streaming Magic Sword",
-            "vi": "Truyền thanh kiếm ma thuật"
+            "vi": "Truyền Thanh Kiếm Ma Thuật"
         },
         {
             "langId": "lang451",
             "en": "Moon Rainbow Sword",
-            "vi": "Thanh kiếm cầu vồng mặt trăng"
+            "vi": "Thanh Kiếm Cầu Vồng Mặt Trăng"
         },
         {
             "langId": "lang454",
             "en": "Nimbus Demonic Sword",
-            "vi": "Thanh kiếm quỷ Nimbus"
+            "vi": "Thanh Kiếm Quỷ Nimbus"
         },
         {
             "langId": "lang457",
@@ -438,12 +438,12 @@
         {
             "langId": "lang460",
             "en": "Emperor's Holy Demonic Sword",
-            "vi": "Thánh Quỷ Kiếm của Hoàng Đế"
+            "vi": "Thánh Quỷ Kiếm Của Hoàng Đế"
         },
         {
             "langId": "lang463",
             "en": "Ghost Sword",
-            "vi": "Ma kiếm"
+            "vi": "Ma Kiếm"
         },
         {
             "langId": "lang466",
@@ -453,57 +453,57 @@
         {
             "langId": "lang469",
             "en": "Bloodstained Sword",
-            "vi": "Thanh kiếm dính máu"
+            "vi": "Thanh Kiếm Dính Máu"
         },
         {
             "langId": "lang538",
-            "en": "dagger",
-            "vi": "dao găm"
+            "en": "Dagger",
+            "vi": "Dao Găm"
         },
         {
             "langId": "lang539",
-            "en": "bone dagger",
-            "vi": "dao găm xương"
+            "en": "Bone Dagger",
+            "vi": "Dao Găm Xương"
         },
         {
             "langId": "lang540",
-            "en": "steel dagger",
-            "vi": "dao găm thép"
+            "en": "Steel Dagger",
+            "vi": "Dao Găm Thép"
         },
         {
             "langId": "lang541",
-            "en": "crystal dagger",
-            "vi": "dao găm pha lê"
+            "en": "Crystal Dagger",
+            "vi": "Dao Găm Pha Lê"
         },
         {
             "langId": "lang542",
             "en": "Moonshadow Dagger",
-            "vi": "Dao găm bóng trăng"
+            "vi": "Dao Găm Bóng Trăng"
         },
         {
             "langId": "lang543",
             "en": "Bone Jade Dagger",
-            "vi": "Dao găm xương ngọc"
+            "vi": "Dao Găm Xương Ngọc"
         },
         {
             "langId": "lang544",
             "en": "Assault Dagger",
-            "vi": "dao găm tấn công"
+            "vi": "Dao Găm Tấn Công"
         },
         {
             "langId": "lang545",
-            "en": "Blade of Justice",
-            "vi": "Lưỡi công lý"
+            "en": "Blade Of Justice",
+            "vi": "Lưỡi Công Lý"
         },
         {
             "langId": "lang546",
-            "en": "Bone-crushing dagger",
-            "vi": "Dao chặt xương"
+            "en": "Bone-crushing Dagger",
+            "vi": "Dao Chặt Xương"
         },
         {
             "langId": "lang547",
             "en": "Kirin Dagger",
-            "vi": "Dao găm kỳ lân"
+            "vi": "Dao Găm Kỳ Lân"
         },
         {
             "langId": "lang548",
@@ -513,252 +513,252 @@
         {
             "langId": "lang549",
             "en": "Storm Blade",
-            "vi": "Lưỡi bão"
+            "vi": "Lưỡi Bão"
         },
         {
             "langId": "lang550",
-            "en": "Dagger of the Dead",
-            "vi": "Con dao của người chết"
+            "en": "Dagger Of The Dead",
+            "vi": "Con Dao Của Người Chết"
         },
         {
             "langId": "lang551",
-            "en": "purple jade",
-            "vi": "ngọc tím"
+            "en": "Purple Jade",
+            "vi": "Ngọc Tím"
         },
         {
             "langId": "lang552",
-            "en": "Red flame",
-            "vi": "ngọn lửa đỏ"
+            "en": "Red Flame",
+            "vi": "Ngọn Lửa Đỏ"
         },
         {
             "langId": "lang553",
-            "en": "Heaven-defying dagger",
-            "vi": "Con dao thách thức thiên đường"
+            "en": "Heaven-defying Dagger",
+            "vi": "Con Dao Thách Thức Thiên Đường"
         },
         {
             "langId": "lang554",
-            "en": "Blade of Light",
-            "vi": "Lưỡi ánh sáng"
+            "en": "Blade Of Light",
+            "vi": "Lưỡi Ánh Sáng"
         },
         {
             "langId": "lang691",
-            "en": "Exquisite dagger",
-            "vi": "Con dao tinh tế"
+            "en": "Exquisite Dagger",
+            "vi": "Con Dao Tinh Tế"
         },
         {
             "langId": "lang692",
             "en": "Yuanyang Dagger",
-            "vi": "Dao găm Nguyên Dương"
+            "vi": "Dao Găm Nguyên Dương"
         },
         {
             "langId": "lang695",
-            "en": "white tiger dagger",
-            "vi": "dao găm hổ trắng"
+            "en": "White Tiger Dagger",
+            "vi": "Dao Găm Hổ Trắng"
         },
         {
             "langId": "lang698",
-            "en": "willow leaf dagger",
-            "vi": "dao găm lá liễu"
+            "en": "Willow Leaf Dagger",
+            "vi": "Dao Găm Lá Liễu"
         },
         {
             "langId": "lang701",
             "en": "Frost Sky Dagger",
-            "vi": "Dao găm bầu trời băng giá"
+            "vi": "Dao Găm Bầu Trời Băng Giá"
         },
         {
             "langId": "lang704",
             "en": "Dancing Sky Dagger",
-            "vi": "Dao găm bầu trời nhảy múa"
+            "vi": "Dao Găm Bầu Trời Nhảy Múa"
         },
         {
             "langId": "lang707",
-            "en": "golden dagger",
-            "vi": "dao găm vàng"
+            "en": "Golden Dagger",
+            "vi": "Dao Găm Vàng"
         },
         {
             "langId": "lang710",
-            "en": "King of Yue dagger",
-            "vi": "Dao găm của vua Việt"
+            "en": "King Of Yue Dagger",
+            "vi": "Dao Găm Của Vua Việt"
         },
         {
             "langId": "lang713",
             "en": "Qiming Dagger",
-            "vi": "dao găm Qiming"
+            "vi": "Dao Găm Qiming"
         },
         {
             "langId": "lang716",
-            "en": "millet dagger",
-            "vi": "dao kê"
+            "en": "Millet Dagger",
+            "vi": "Dao Kê"
         },
         {
             "langId": "lang719",
             "en": "Tootian Dagger",
-            "vi": "Dao găm Tootian"
+            "vi": "Dao Găm Tootian"
         },
         {
             "langId": "lang722",
             "en": "Xuanjue Dagger",
-            "vi": "Huyền Quyết dao găm"
+            "vi": "Huyền Quyết Dao Găm"
         },
         {
             "langId": "lang725",
             "en": "Xiurui Dagger",
-            "vi": "Dao găm Tú Thụy"
+            "vi": "Dao Găm Tú Thụy"
         },
         {
             "langId": "lang728",
             "en": "Bo Ya Dagger",
-            "vi": "Dao găm Bố Ya"
+            "vi": "Dao Găm Bố Ya"
         },
         {
             "langId": "lang731",
             "en": "Red Wind Dagger",
-            "vi": "Dao găm gió đỏ"
+            "vi": "Dao Găm Gió Đỏ"
         },
         {
             "langId": "lang734",
             "en": "Trapped Beast Dagger",
-            "vi": "Con dao găm thú bị mắc kẹt"
+            "vi": "Con Dao Găm Thú Bị Mắc Kẹt"
         },
         {
             "langId": "lang737",
-            "en": "sun-loving dagger",
-            "vi": "con dao ưa nắng"
+            "en": "Sun-loving Dagger",
+            "vi": "Con Dao Ưa Nắng"
         },
         {
             "langId": "lang740",
-            "en": "Light dance dagger",
-            "vi": "Con dao nhảy nhẹ"
+            "en": "Light Dance Dagger",
+            "vi": "Con Dao Nhảy Nhẹ"
         },
         {
             "langId": "lang743",
-            "en": "butterfly foot dagger",
-            "vi": "dao găm chân bướm"
+            "en": "Butterfly Foot Dagger",
+            "vi": "Dao Găm Chân Bướm"
         },
         {
             "langId": "lang746",
-            "en": "sharp dagger",
-            "vi": "con dao sắc bén"
+            "en": "Sharp Dagger",
+            "vi": "Con Dao Sắc Bén"
         },
         {
             "langId": "lang749",
-            "en": "gold inlaid dagger",
-            "vi": "dao găm dát vàng"
+            "en": "Gold Inlaid Dagger",
+            "vi": "Dao Găm Dát Vàng"
         },
         {
             "langId": "lang752",
             "en": "Flame Spirit Dagger",
-            "vi": "Dao găm lửa thần"
+            "vi": "Dao Găm Lửa Thần"
         },
         {
             "langId": "lang755",
             "en": "Bloodweeping Dagger",
-            "vi": "Dao găm đẫm máu"
+            "vi": "Dao Găm Đẫm Máu"
         },
         {
             "langId": "lang758",
-            "en": "Dagger of confusion",
-            "vi": "Con dao gây nhầm lẫn"
+            "en": "Dagger Of Confusion",
+            "vi": "Con Dao Gây Nhầm Lẫn"
         },
         {
             "langId": "lang761",
             "en": "Cheng Qi Dagger",
-            "vi": "Dao găm Trình Kỳ"
+            "vi": "Dao Găm Trình Kỳ"
         },
         {
             "langId": "lang764",
-            "en": "Rongqiang dagger",
-            "vi": "dao găm Dung Cường"
+            "en": "Rongqiang Dagger",
+            "vi": "Dao Găm Dung Cường"
         },
         {
             "langId": "lang767",
             "en": "Candle Dragon Dagger",
-            "vi": "Dao găm nến rồng"
+            "vi": "Dao Găm Nến Rồng"
         },
         {
             "langId": "lang770",
             "en": "Solitary Shadow Dagger",
-            "vi": "Dao găm bóng tối đơn độc"
+            "vi": "Dao Găm Bóng Tối Đơn Độc"
         },
         {
             "langId": "lang839",
-            "en": "short bow",
-            "vi": "nơ ngắn"
+            "en": "Short Bow",
+            "vi": "Nơ Ngắn"
         },
         {
             "langId": "lang840",
-            "en": "Yanagiki bow",
+            "en": "Yanagiki Bow",
             "vi": "Cung Yanagiki"
         },
         {
             "langId": "lang841",
-            "en": "Trial short bow",
-            "vi": "Nơ ngắn dùng thử"
+            "en": "Trial Short Bow",
+            "vi": "Nơ Ngắn Dùng Thử"
         },
         {
             "langId": "lang842",
             "en": "Archer's Longbow",
-            "vi": "Cung dài của cung thủ"
+            "vi": "Cung Dài Của Cung Thủ"
         },
         {
             "langId": "lang843",
-            "en": "crossbow",
-            "vi": "nỏ"
+            "en": "Crossbow",
+            "vi": "Nỏ"
         },
         {
             "langId": "lang844",
-            "en": "nature bow",
-            "vi": "cung thiên nhiên"
+            "en": "Nature Bow",
+            "vi": "Cung Thiên Nhiên"
         },
         {
             "langId": "lang845",
             "en": "Night Bow",
-            "vi": "Cung đêm"
+            "vi": "Cung Đêm"
         },
         {
             "langId": "lang846",
             "en": "Warrior's Crossbow",
-            "vi": "Nỏ chiến binh"
+            "vi": "Nỏ Chiến Binh"
         },
         {
             "langId": "lang847",
-            "en": "Bow of Glory",
-            "vi": "Cung vinh quang"
+            "en": "Bow Of Glory",
+            "vi": "Cung Vinh Quang"
         },
         {
             "langId": "lang848",
             "en": "Wind Crossbow",
-            "vi": "Nỏ gió"
+            "vi": "Nỏ Gió"
         },
         {
             "langId": "lang849",
             "en": "Beastmaster Longbow",
-            "vi": "Cung dài Beastmaster"
+            "vi": "Cung Dài Beastmaster"
         },
         {
             "langId": "lang850",
             "en": "Silver Winged Bow",
-            "vi": "Cung có cánh bạc"
+            "vi": "Cung Có Cánh Bạc"
         },
         {
             "langId": "lang851",
-            "en": "longyan",
-            "vi": "long nhãn"
+            "en": "Longyan",
+            "vi": "Long Nhãn"
         },
         {
             "langId": "lang852",
             "en": "Soul Bow",
-            "vi": "Cung hồn"
+            "vi": "Cung Hồn"
         },
         {
             "langId": "lang853",
-            "en": "day by day",
-            "vi": "ngày qua ngày"
+            "en": "Day By Day",
+            "vi": "Ngày Qua Ngày"
         },
         {
             "langId": "lang854",
             "en": "Commander's Bow",
-            "vi": "Cung chỉ huy"
+            "vi": "Cung Chỉ Huy"
         },
         {
             "langId": "lang855",
@@ -767,18 +767,18 @@
         },
         {
             "langId": "lang992",
-            "en": "Elite bow",
-            "vi": "Cung ưu tú"
+            "en": "Elite Bow",
+            "vi": "Cung Ưu Tú"
         },
         {
             "langId": "lang995",
-            "en": "wrath bow",
-            "vi": "cung phẫn nộ"
+            "en": "Wrath Bow",
+            "vi": "Cung Phẫn Nộ"
         },
         {
             "langId": "lang998",
             "en": "Elven Bow",
-            "vi": "Cung yêu tinh"
+            "vi": "Cung Yêu Tinh"
         },
         {
             "langId": "lang1001",
@@ -793,7 +793,7 @@
         {
             "langId": "lang1007",
             "en": "Cold Star Bow",
-            "vi": "Cung sao lạnh"
+            "vi": "Cung Sao Lạnh"
         },
         {
             "langId": "lang1010",
@@ -802,13 +802,13 @@
         },
         {
             "langId": "lang1013",
-            "en": "red bow",
-            "vi": "nơ đỏ"
+            "en": "Red Bow",
+            "vi": "Nơ Đỏ"
         },
         {
             "langId": "lang1016",
-            "en": "Ice string bow",
-            "vi": "Cung dây băng"
+            "en": "Ice String Bow",
+            "vi": "Cung Dây Băng"
         },
         {
             "langId": "lang1019",
@@ -817,8 +817,8 @@
         },
         {
             "langId": "lang1022",
-            "en": "red bow",
-            "vi": "nơ đỏ"
+            "en": "Red Bow",
+            "vi": "Nơ Đỏ"
         },
         {
             "langId": "lang1025",
@@ -827,23 +827,23 @@
         },
         {
             "langId": "lang1028",
-            "en": "double pupil bow",
-            "vi": "cung đôi học sinh"
+            "en": "Double Pupil Bow",
+            "vi": "Cung Đôi Học Sinh"
         },
         {
             "langId": "lang1031",
-            "en": "moonlight bow",
-            "vi": "cung trăng"
+            "en": "Moonlight Bow",
+            "vi": "Cung Trăng"
         },
         {
             "langId": "lang1034",
-            "en": "juexian bow",
-            "vi": "cung juexian"
+            "en": "Juexian Bow",
+            "vi": "Cung Juexian"
         },
         {
             "langId": "lang1037",
-            "en": "floating light bow",
-            "vi": "nơ đèn nổi"
+            "en": "Floating Light Bow",
+            "vi": "Nơ Đèn Nổi"
         },
         {
             "langId": "lang1040",
@@ -852,18 +852,18 @@
         },
         {
             "langId": "lang1043",
-            "en": "earth destroying bow",
-            "vi": "cung hủy diệt trái đất"
+            "en": "Earth Destroying Bow",
+            "vi": "Cung Hủy Diệt Trái Đất"
         },
         {
             "langId": "lang1046",
-            "en": "cold light bow",
-            "vi": "cung ánh sáng lạnh"
+            "en": "Cold Light Bow",
+            "vi": "Cung Ánh Sáng Lạnh"
         },
         {
             "langId": "lang1049",
-            "en": "Ice soul bow",
-            "vi": "Cung hồn băng giá"
+            "en": "Ice Soul Bow",
+            "vi": "Cung Hồn Băng Giá"
         },
         {
             "langId": "lang1052",
@@ -872,18 +872,18 @@
         },
         {
             "langId": "lang1055",
-            "en": "Loyal soul bow",
-            "vi": "Cúi đầu tâm hồn trung thành"
+            "en": "Loyal Soul Bow",
+            "vi": "Cúi Đầu Tâm Hồn Trung Thành"
         },
         {
             "langId": "lang1058",
             "en": "Flying Moon Bow",
-            "vi": "Cung trăng bay"
+            "vi": "Cung Trăng Bay"
         },
         {
             "langId": "lang1061",
-            "en": "clear round bow",
-            "vi": "nơ tròn rõ ràng"
+            "en": "Clear Round Bow",
+            "vi": "Nơ Tròn Rõ Ràng"
         },
         {
             "langId": "lang1064",
@@ -892,23 +892,23 @@
         },
         {
             "langId": "lang1067",
-            "en": "Bow of delusion",
-            "vi": "Cung ảo tưởng"
+            "en": "Bow Of Delusion",
+            "vi": "Cung Ảo Tưởng"
         },
         {
             "langId": "lang1070",
-            "en": "dusty bow",
-            "vi": "nơ đầy bụi"
+            "en": "Dusty Bow",
+            "vi": "Nơ Đầy Bụi"
         },
         {
             "langId": "lang1073",
-            "en": "boundary river bow",
-            "vi": "mũi sông ranh giới"
+            "en": "Boundary River Bow",
+            "vi": "Mũi Sông Ranh Giới"
         },
         {
             "langId": "lang1076",
-            "en": "Seven-pupil bow",
-            "vi": "Cung bảy học trò"
+            "en": "Seven-pupil Bow",
+            "vi": "Cung Bảy Học Trò"
         },
         {
             "langId": "lang1079",
@@ -917,13 +917,13 @@
         },
         {
             "langId": "lang1148",
-            "en": "short staff",
-            "vi": "nhân viên ngắn"
+            "en": "Short Staff",
+            "vi": "Nhân Viên Ngắn"
         },
         {
             "langId": "lang1149",
-            "en": "green bamboo stick",
-            "vi": "thanh tre xanh"
+            "en": "Green Bamboo Stick",
+            "vi": "Thanh Tre Xanh"
         },
         {
             "langId": "lang1150",
@@ -943,57 +943,57 @@
         {
             "langId": "lang1153",
             "en": "Sage's Staff",
-            "vi": "Nhân viên của Sage"
+            "vi": "Nhân Viên Của Sage"
         },
         {
             "langId": "lang1154",
-            "en": "Staff of the Lord",
-            "vi": "Nhân viên của Chúa"
+            "en": "Staff Of The Lord",
+            "vi": "Nhân Viên Của Chúa"
         },
         {
             "langId": "lang1155",
             "en": "Fire Staff",
-            "vi": "Nhân viên cứu hỏa"
+            "vi": "Nhân Viên Cứu Hỏa"
         },
         {
             "langId": "lang1156",
             "en": "Demon-slaying Rod",
-            "vi": "Cây gậy diệt quỷ"
+            "vi": "Cây Gậy Diệt Quỷ"
         },
         {
             "langId": "lang1157",
             "en": "Infernal Cane",
-            "vi": "Gậy địa ngục"
+            "vi": "Gậy Địa Ngục"
         },
         {
             "langId": "lang1158",
-            "en": "Staff of the Divine Spell",
-            "vi": "Quyền trượng của thần chú"
+            "en": "Staff Of The Divine Spell",
+            "vi": "Quyền Trượng Của Thần Chú"
         },
         {
             "langId": "lang1159",
             "en": "Demonic Cane",
-            "vi": "Cây gậy quỷ"
+            "vi": "Cây Gậy Quỷ"
         },
         {
             "langId": "lang1160",
             "en": "Tianzun Staff",
-            "vi": "Nhân viên Thiên Tôn"
+            "vi": "Nhân Viên Thiên Tôn"
         },
         {
             "langId": "lang1161",
-            "en": "unbelievable",
-            "vi": "không thể tin được"
+            "en": "Unbelievable",
+            "vi": "Không Thể Tin Được"
         },
         {
             "langId": "lang1162",
             "en": "Asura's Staff",
-            "vi": "Quyền trượng của Asura"
+            "vi": "Quyền Trượng Của Asura"
         },
         {
             "langId": "lang1163",
-            "en": "Nuwa walking stick",
-            "vi": "Gậy đi bộ Nuwa"
+            "en": "Nuwa Walking Stick",
+            "vi": "Gậy Đi Bộ Nuwa"
         },
         {
             "langId": "lang1164",
@@ -1003,27 +1003,27 @@
         {
             "langId": "lang1301",
             "en": "Wind Chaser Scepter",
-            "vi": "Quyền trượng đuổi gió"
+            "vi": "Quyền Trượng Đuổi Gió"
         },
         {
             "langId": "lang1302",
             "en": "Wand",
-            "vi": "cây đũa phép"
+            "vi": "Cây Đũa Phép"
         },
         {
             "langId": "lang1303",
-            "en": "black wand",
-            "vi": "cây đũa đen"
+            "en": "Black Wand",
+            "vi": "Cây Đũa Đen"
         },
         {
             "langId": "lang1306",
-            "en": "peach wood stick",
-            "vi": "thanh gỗ đào"
+            "en": "Peach Wood Stick",
+            "vi": "Thanh Gỗ Đào"
         },
         {
             "langId": "lang1312",
-            "en": "Emei stick",
-            "vi": "Emei dính"
+            "en": "Emei Stick",
+            "vi": "Emei Dính"
         },
         {
             "langId": "lang1315",
@@ -1032,78 +1032,78 @@
         },
         {
             "langId": "lang1318",
-            "en": "Protector's staff",
-            "vi": "Nhân viên bảo vệ"
+            "en": "Protector's Staff",
+            "vi": "Nhân Viên Bảo Vệ"
         },
         {
             "langId": "lang1321",
-            "en": "White rainbow stick",
-            "vi": "Cây cầu vồng trắng"
+            "en": "White Rainbow Stick",
+            "vi": "Cây Cầu Vồng Trắng"
         },
         {
             "langId": "lang1324",
             "en": "Ishitani Cane",
-            "vi": "mía Ishitani"
+            "vi": "Mía Ishitani"
         },
         {
             "langId": "lang1327",
-            "en": "Cold river stick",
-            "vi": "Thanh sông lạnh"
+            "en": "Cold River Stick",
+            "vi": "Thanh Sông Lạnh"
         },
         {
             "langId": "lang1330",
-            "en": "Staff of Desolation",
-            "vi": "Nhân viên hoang tàn"
+            "en": "Staff Of Desolation",
+            "vi": "Nhân Viên Hoang Tàn"
         },
         {
             "langId": "lang1333",
-            "en": "Dingjun staff",
-            "vi": "nhân viên Định Quân"
+            "en": "Dingjun Staff",
+            "vi": "Nhân Viên Định Quân"
         },
         {
             "langId": "lang1336",
             "en": "Lingxiao Staff",
-            "vi": "Nhân viên Lăng Tiêu"
+            "vi": "Nhân Viên Lăng Tiêu"
         },
         {
             "langId": "lang1339",
-            "en": "moon stick",
-            "vi": "gậy mặt trăng"
+            "en": "Moon Stick",
+            "vi": "Gậy Mặt Trăng"
         },
         {
             "langId": "lang1342",
             "en": "Cassia Staff",
-            "vi": "Nhân viên Cassia"
+            "vi": "Nhân Viên Cassia"
         },
         {
             "langId": "lang1345",
             "en": "Void Staff",
-            "vi": "Nhân viên khoảng trống"
+            "vi": "Nhân Viên Khoảng Trống"
         },
         {
             "langId": "lang1348",
-            "en": "bodhi stick",
-            "vi": "cây bồ đề"
+            "en": "Bodhi Stick",
+            "vi": "Cây Bồ Đề"
         },
         {
             "langId": "lang1351",
-            "en": "Night stick",
-            "vi": "Cây gậy đêm"
+            "en": "Night Stick",
+            "vi": "Cây Gậy Đêm"
         },
         {
             "langId": "lang1354",
-            "en": "Embrace the Emperor's Staff",
-            "vi": "Ôm lấy quyền trượng của hoàng đế"
+            "en": "Embrace The Emperor's Staff",
+            "vi": "Ôm Lấy Quyền Trượng Của Hoàng Đế"
         },
         {
             "langId": "lang1357",
-            "en": "Yellow crane stick",
-            "vi": "Cần cẩu vàng"
+            "en": "Yellow Crane Stick",
+            "vi": "Cần Cẩu Vàng"
         },
         {
             "langId": "lang1360",
-            "en": "Painting stick",
-            "vi": "Tranh dính"
+            "en": "Painting Stick",
+            "vi": "Tranh Dính"
         },
         {
             "langId": "lang1363",
@@ -1112,13 +1112,13 @@
         },
         {
             "langId": "lang1366",
-            "en": "green bamboo stick",
-            "vi": "thanh tre xanh"
+            "en": "Green Bamboo Stick",
+            "vi": "Thanh Tre Xanh"
         },
         {
             "langId": "lang1369",
-            "en": "Thousand canes",
-            "vi": "ngàn cây gậy"
+            "en": "Thousand Canes",
+            "vi": "Ngàn Cây Gậy"
         },
         {
             "langId": "lang1372",
@@ -1128,7 +1128,7 @@
         {
             "langId": "lang1378",
             "en": "Azure Staff",
-            "vi": "Nhân viên Azure"
+            "vi": "Nhân Viên Azure"
         },
         {
             "langId": "lang1381",
@@ -1138,22 +1138,22 @@
         {
             "langId": "lang1384",
             "en": "Blue Soul Cane",
-            "vi": "Cây gậy linh hồn xanh"
+            "vi": "Cây Gậy Linh Hồn Xanh"
         },
         {
             "langId": "lang1387",
-            "en": "flaming staff",
-            "vi": "nhân viên rực lửa"
+            "en": "Flaming Staff",
+            "vi": "Nhân Viên Rực Lửa"
         },
         {
             "langId": "lang1456",
-            "en": "Short hammer",
-            "vi": "Búa ngắn"
+            "en": "Short Hammer",
+            "vi": "Búa Ngắn"
         },
         {
             "langId": "lang1457",
-            "en": "Copper hammer",
-            "vi": "Búa đồng"
+            "en": "Copper Hammer",
+            "vi": "Búa Đồng"
         },
         {
             "langId": "lang1458",
@@ -1163,92 +1163,92 @@
         {
             "langId": "lang1459",
             "en": "Warrior Warhammer",
-            "vi": "Chiến binh Warhammer"
+            "vi": "Chiến Binh Warhammer"
         },
         {
             "langId": "lang1460",
             "en": "Mace",
-            "vi": "cái chùy"
+            "vi": "Cái Chùy"
         },
         {
             "langId": "lang1461",
             "en": "Stone Breaking Hammer",
-            "vi": "Búa phá đá"
+            "vi": "Búa Phá Đá"
         },
         {
             "langId": "lang1462",
-            "en": "Warhammer of Glory",
-            "vi": "Chiếc búa chiến vinh quang"
+            "en": "Warhammer Of Glory",
+            "vi": "Chiếc Búa Chiến Vinh Quang"
         },
         {
             "langId": "lang1463",
             "en": "Meteor Hammer",
-            "vi": "Búa thiên thạch"
+            "vi": "Búa Thiên Thạch"
         },
         {
             "langId": "lang1464",
-            "en": "Meteor hammer",
-            "vi": "Búa thiên thạch"
+            "en": "Meteor Hammer",
+            "vi": "Búa Thiên Thạch"
         },
         {
             "langId": "lang1465",
-            "en": "machete hammer",
-            "vi": "búa dao rựa"
+            "en": "Machete Hammer",
+            "vi": "Búa Dao Rựa"
         },
         {
             "langId": "lang1466",
-            "en": "Hammer of Bones",
-            "vi": "búa xương"
+            "en": "Hammer Of Bones",
+            "vi": "Búa Xương"
         },
         {
             "langId": "lang1467",
             "en": "Skyshattering Hammer",
-            "vi": "Búa rung trời"
+            "vi": "Búa Rung Trời"
         },
         {
             "langId": "lang1468",
             "en": "Phantom Hammer",
-            "vi": "Búa ma"
+            "vi": "Búa Ma"
         },
         {
             "langId": "lang1469",
             "en": "Tyrant",
-            "vi": "bạo chúa"
+            "vi": "Bạo Chúa"
         },
         {
             "langId": "lang1470",
             "en": "Opening Heaven Hammer",
-            "vi": "Khai mở búa thiên đường"
+            "vi": "Khai Mở Búa Thiên Đường"
         },
         {
             "langId": "lang1471",
-            "en": "annihilation",
-            "vi": "sự hủy diệt"
+            "en": "Annihilation",
+            "vi": "Sự Hủy Diệt"
         },
         {
             "langId": "lang1472",
-            "en": "Hammer of the Gods",
-            "vi": "Cái búa của các vị thần"
+            "en": "Hammer Of The Gods",
+            "vi": "Cái Búa Của Các Vị Thần"
         },
         {
             "langId": "lang1609",
-            "en": "Short hammer (magic)",
-            "vi": "Búa ngắn (ma thuật)"
+            "en": "Short Hammer (magic)",
+            "vi": "Búa Ngắn (ma Thuật)"
         },
         {
             "langId": "lang1610",
-            "en": "Bronze Hammer (Demon)",
-            "vi": "Búa Đồng (Quỷ)"
+            "en": "Bronze Hammer (demon)",
+            "vi": "Búa Đồng (quỷ)"
         },
         {
             "langId": "lang1611",
-            "en": "Hercules Hammer (Magic)",
-            "vi": "Búa Hercules (Phép thuật)"
+            "en": "Hercules Hammer (magic)",
+            "vi": "Búa Hercules (phép Thuật)"
         },
         {
             "langId": "lang1612",
-            "en": "Warrior Warhammer (Demon)",
-            "vi": "Chiến binh Warhammer (Quỷ)"
+            "en": "Warrior Warhammer (demon)",
+            "vi": "Chiến Binh Warhammer (quỷ)"
         },
         {
             "langId": "lang1613",
@@ -1257,98 +1257,98 @@
         },
         {
             "langId": "lang1614",
-            "en": "Stone-Breaking Hammer (Demon)",
-            "vi": "Búa Phá Đá (Quỷ)"
+            "en": "Stone-breaking Hammer (demon)",
+            "vi": "Búa Phá Đá (quỷ)"
         },
         {
             "langId": "lang1615",
-            "en": "Warhammer of Glory (Demon)",
-            "vi": "Warhammer vinh quang (Quỷ)"
+            "en": "Warhammer Of Glory (demon)",
+            "vi": "Warhammer Vinh Quang (quỷ)"
         },
         {
             "langId": "lang1616",
-            "en": "Meteor Hammer (Demon)",
-            "vi": "Búa sao băng (Quỷ)"
+            "en": "Meteor Hammer (demon)",
+            "vi": "Búa Sao Băng (quỷ)"
         },
         {
             "langId": "lang1617",
-            "en": "Meteor hammer(magic)",
-            "vi": "Búa sao băng (ma thuật)"
+            "en": "Meteor Hammer(magic)",
+            "vi": "Búa Sao Băng (ma Thuật)"
         },
         {
             "langId": "lang1618",
-            "en": "Mountain Hammer(Devil)",
-            "vi": "Búa núi (Quỷ dữ)"
+            "en": "Mountain Hammer(devil)",
+            "vi": "Búa Núi (quỷ Dữ)"
         },
         {
             "langId": "lang1619",
-            "en": "Hammer of Bones (Demon)",
-            "vi": "Búa xương (Quỷ)"
+            "en": "Hammer Of Bones (demon)",
+            "vi": "Búa Xương (quỷ)"
         },
         {
             "langId": "lang1620",
-            "en": "Skyshattering Hammer (Demon)",
-            "vi": "Búa Thiên Hạ (Quỷ)"
+            "en": "Skyshattering Hammer (demon)",
+            "vi": "Búa Thiên Hạ (quỷ)"
         },
         {
             "langId": "lang1621",
-            "en": "Phantom Hammer(Demon)",
-            "vi": "Búa ma (Quỷ)"
+            "en": "Phantom Hammer(demon)",
+            "vi": "Búa Ma (quỷ)"
         },
         {
             "langId": "lang1622",
-            "en": "Tyrant (Demon)",
-            "vi": "Bạo Chúa (Quỷ)"
+            "en": "Tyrant (demon)",
+            "vi": "Bạo Chúa (quỷ)"
         },
         {
             "langId": "lang1623",
-            "en": "Opening Heaven Hammer (Demon)",
-            "vi": "Khai mở Búa Thiên Đường (Quỷ)"
+            "en": "Opening Heaven Hammer (demon)",
+            "vi": "Khai Mở Búa Thiên Đường (quỷ)"
         },
         {
             "langId": "lang1624",
-            "en": "Annihilation (Demon)",
-            "vi": "Sự hủy diệt (Quỷ)"
+            "en": "Annihilation (demon)",
+            "vi": "Sự Hủy Diệt (quỷ)"
         },
         {
             "langId": "lang1625",
-            "en": "Hammer of the Gods (Demon)",
-            "vi": "Búa của các vị thần (Quỷ)"
+            "en": "Hammer Of The Gods (demon)",
+            "vi": "Búa Của Các Vị Thần (quỷ)"
         },
         {
             "langId": "lang1762",
-            "en": "Long Hammer (Magic)",
-            "vi": "Cây búa dài (ma thuật)"
+            "en": "Long Hammer (magic)",
+            "vi": "Cây Búa Dài (ma Thuật)"
         },
         {
             "langId": "lang1763",
-            "en": "Electric hammer",
-            "vi": "Búa điện"
+            "en": "Electric Hammer",
+            "vi": "Búa Điện"
         },
         {
             "langId": "lang1766",
             "en": "Blood Fire Magic Hammer",
-            "vi": "Búa ma thuật máu lửa"
+            "vi": "Búa Ma Thuật Máu Lửa"
         },
         {
             "langId": "lang1769",
             "en": "Wind Hammer",
-            "vi": "Búa gió"
+            "vi": "Búa Gió"
         },
         {
             "langId": "lang1772",
-            "en": "Tuanhua magic hammer",
-            "vi": "Chiếc búa thần Tuanhua"
+            "en": "Tuanhua Magic Hammer",
+            "vi": "Chiếc Búa Thần Tuanhua"
         },
         {
             "langId": "lang1775",
             "en": "Falling Hammer",
-            "vi": "Búa rơi"
+            "vi": "Búa Rơi"
         },
         {
             "langId": "lang1778",
-            "en": "Spring and Autumn Magic Hammer",
-            "vi": "Búa thần xuân thu"
+            "en": "Spring And Autumn Magic Hammer",
+            "vi": "Búa Thần Xuân Thu"
         },
         {
             "langId": "lang1781",
@@ -1358,37 +1358,37 @@
         {
             "langId": "lang1784",
             "en": "Dawnhorn Magic Hammer",
-            "vi": "Búa ma thuật Dawnhorn"
+            "vi": "Búa Ma Thuật Dawnhorn"
         },
         {
             "langId": "lang1787",
-            "en": "Cloud hammer",
-            "vi": "Búa mây"
+            "en": "Cloud Hammer",
+            "vi": "Búa Mây"
         },
         {
             "langId": "lang1790",
-            "en": "Set of double magic hammers",
-            "vi": "Bộ búa ma thuật đôi"
+            "en": "Set Of Double Magic Hammers",
+            "vi": "Bộ Búa Ma Thuật Đôi"
         },
         {
             "langId": "lang1793",
             "en": "Dragon Lin Hammer",
-            "vi": "Búa rồng Lin"
+            "vi": "Búa Rồng Lin"
         },
         {
             "langId": "lang1796",
             "en": "Demon Suppressing Hammer",
-            "vi": "Búa trấn áp quỷ"
+            "vi": "Búa Trấn Áp Quỷ"
         },
         {
             "langId": "lang1799",
-            "en": "Pine grain hammer",
-            "vi": "Búa hạt thông"
+            "en": "Pine Grain Hammer",
+            "vi": "Búa Hạt Thông"
         },
         {
             "langId": "lang1802",
             "en": "Frost Demon Hammer",
-            "vi": "Búa quỷ băng giá"
+            "vi": "Búa Quỷ Băng Giá"
         },
         {
             "langId": "lang1805",
@@ -1398,17 +1398,17 @@
         {
             "langId": "lang1808",
             "en": "Yuanmen Magic Hammer",
-            "vi": "Búa thần Nguyên Môn"
+            "vi": "Búa Thần Nguyên Môn"
         },
         {
             "langId": "lang1811",
             "en": "Hundred Warhammer",
-            "vi": "Trăm búa chiến"
+            "vi": "Trăm Búa Chiến"
         },
         {
             "langId": "lang1814",
-            "en": "Gold-embedded magic hammer",
-            "vi": "Búa ma thuật nhúng vàng"
+            "en": "Gold-embedded Magic Hammer",
+            "vi": "Búa Ma Thuật Nhúng Vàng"
         },
         {
             "langId": "lang1817",
@@ -1418,7 +1418,7 @@
         {
             "langId": "lang1820",
             "en": "Purple Gold Magic Hammer",
-            "vi": "Búa ma thuật vàng tím"
+            "vi": "Búa Ma Thuật Vàng Tím"
         },
         {
             "langId": "lang1823",
@@ -1428,7 +1428,7 @@
         {
             "langId": "lang1826",
             "en": "Peak Magic Hammer",
-            "vi": "Búa ma thuật đỉnh cao"
+            "vi": "Búa Ma Thuật Đỉnh Cao"
         },
         {
             "langId": "lang1829",
@@ -1437,28 +1437,28 @@
         },
         {
             "langId": "lang1832",
-            "en": "Dragon-Subduing Magic Hammer",
-            "vi": "Búa ma thuật hàng phục rồng"
+            "en": "Dragon-subduing Magic Hammer",
+            "vi": "Búa Ma Thuật Hàng Phục Rồng"
         },
         {
             "langId": "lang1835",
-            "en": "Bone hammer",
-            "vi": "Búa xương"
+            "en": "Bone Hammer",
+            "vi": "Búa Xương"
         },
         {
             "langId": "lang1838",
             "en": "Meditation Magic Hammer",
-            "vi": "Búa thần thiền định"
+            "vi": "Búa Thần Thiền Định"
         },
         {
             "langId": "lang1841",
             "en": "Dream Hammer",
-            "vi": "Búa mơ"
+            "vi": "Búa Mơ"
         },
         {
             "langId": "lang1844",
             "en": "Black Slayer Hammer",
-            "vi": "Búa sát thủ đen"
+            "vi": "Búa Sát Thủ Đen"
         },
         {
             "langId": "lang1847",
@@ -1467,8 +1467,8 @@
         },
         {
             "langId": "lang1850",
-            "en": "Hammer of Sorrow",
-            "vi": "Búa đau buồn"
+            "en": "Hammer Of Sorrow",
+            "vi": "Búa Đau Buồn"
         },
         {
             "langId": "lang1853",
@@ -1477,8 +1477,8 @@
         },
         {
             "langId": "lang1856",
-            "en": "Magic Hammer of Song Dao",
-            "vi": "Chiếc búa thần của Sông Đạo"
+            "en": "Magic Hammer Of Song Dao",
+            "vi": "Chiếc Búa Thần Của Sông Đạo"
         },
         {
             "langId": "lang1859",
@@ -1488,102 +1488,102 @@
         {
             "langId": "lang1862",
             "en": "Hate Iron Magic Hammer",
-            "vi": "Ghét chiếc búa thần sắt"
+            "vi": "Ghét Chiếc Búa Thần Sắt"
         },
         {
             "langId": "lang1865",
-            "en": "Bearish hammer",
-            "vi": "Búa giảm giá"
+            "en": "Bearish Hammer",
+            "vi": "Búa Giảm Giá"
         },
         {
             "langId": "lang1868",
             "en": "Prajna Demon Hammer",
-            "vi": "Búa quỷ Bát nhã"
+            "vi": "Búa Quỷ Bát Nhã"
         },
         {
             "langId": "lang1871",
             "en": "Magic Hammer",
-            "vi": "Búa thần"
+            "vi": "Búa Thần"
         },
         {
             "langId": "lang1874",
-            "en": "Iron-breaking hammer",
-            "vi": "Búa phá sắt"
+            "en": "Iron-breaking Hammer",
+            "vi": "Búa Phá Sắt"
         },
         {
             "langId": "lang1877",
-            "en": "hollow hammer",
-            "vi": "búa rỗng"
+            "en": "Hollow Hammer",
+            "vi": "Búa Rỗng"
         },
         {
             "langId": "lang1880",
             "en": "Eight Treasures Magic Hammer",
-            "vi": "Búa thần tám báu"
+            "vi": "Búa Thần Tám Báu"
         },
         {
             "langId": "lang1883",
             "en": "Hundred Fire Hammer",
-            "vi": "Trăm búa lửa"
+            "vi": "Trăm Búa Lửa"
         },
         {
             "langId": "lang1886",
-            "en": "Hammer of Passion",
-            "vi": "Chiếc búa đam mê"
+            "en": "Hammer Of Passion",
+            "vi": "Chiếc Búa Đam Mê"
         },
         {
             "langId": "lang1889",
-            "en": "Soul-destroying hammer",
-            "vi": "Chiếc búa hủy diệt tâm hồn"
+            "en": "Soul-destroying Hammer",
+            "vi": "Chiếc Búa Hủy Diệt Tâm Hồn"
         },
         {
             "langId": "lang1892",
             "en": "Mysterious Fire Demonic Hammer",
-            "vi": "Búa quỷ lửa bí ẩn"
+            "vi": "Búa Quỷ Lửa Bí Ẩn"
         },
         {
             "langId": "lang1895",
             "en": "Immortal Hammer",
-            "vi": "Búa bất tử"
+            "vi": "Búa Bất Tử"
         },
         {
             "langId": "lang1898",
             "en": "Green Demonic Hammer",
-            "vi": "Búa quỷ xanh"
+            "vi": "Búa Quỷ Xanh"
         },
         {
             "langId": "lang1901",
             "en": "Fire Hammer",
-            "vi": "Búa lửa"
+            "vi": "Búa Lửa"
         },
         {
             "langId": "lang1904",
             "en": "Heart Tempering Magic Hammer",
-            "vi": "Búa thần luyện tim"
+            "vi": "Búa Thần Luyện Tim"
         },
         {
             "langId": "lang1907",
             "en": "Dragon Hammer",
-            "vi": "Búa rồng"
+            "vi": "Búa Rồng"
         },
         {
             "langId": "lang1910",
-            "en": "Wuwei magic hammer",
-            "vi": "Búa ma thuật Wuwei"
+            "en": "Wuwei Magic Hammer",
+            "vi": "Búa Ma Thuật Wuwei"
         },
         {
             "langId": "lang1913",
             "en": "Fighting Soul Hammer",
-            "vi": "Búa linh hồn chiến đấu"
+            "vi": "Búa Linh Hồn Chiến Đấu"
         },
         {
             "langId": "lang1916",
-            "en": "Hammer of Annihilation",
-            "vi": "Búa hủy diệt"
+            "en": "Hammer Of Annihilation",
+            "vi": "Búa Hủy Diệt"
         },
         {
             "langId": "lang1919",
             "en": "Skybreaking Hammer",
-            "vi": "Búa phá trời"
+            "vi": "Búa Phá Trời"
         }
     ]
 }

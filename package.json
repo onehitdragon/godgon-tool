@@ -2,7 +2,8 @@
   "dependencies": {
     "@iamtraction/google-translate": "github:iamtraction/google-translate",
     "fast-xml-parser": "^4.3.6",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "node-notifier": "^10.0.1"
   },
   "type": "module"
 }
