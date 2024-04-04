@@ -7,3 +7,5 @@ node indexClothes.js
 node indexHat.js
 node indexJewelry.js
 node indexShoes.js
+
+node monsterTool/index.js

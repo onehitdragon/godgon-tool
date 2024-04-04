@@ -38,7 +38,7 @@ async function start(){
             const price = calcPrice(weapon);
             weapon.equipmentInfo.minAttack = Math.floor(attack.min);
             weapon.equipmentInfo.maxAttack = Math.floor(attack.max);
-            weapon.equipmentInfo.price = Math.floor(price);
+            weapon.price = Math.floor(price);
             result.push(weapon);
         }
         catch(e){
