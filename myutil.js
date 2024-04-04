@@ -268,5 +268,86 @@ function calcAttackSpeed(glove){
     return AttackSpeedResult;
 }
 
+function traitToTraitBonusMoveSpeed(trait){
+    // common uncommon rare epic legendary
+    switch (trait) {
+        case "common":
+            return 10;
+        case "uncommon":
+            return 20;
+        case "rare":
+            return 30;
+        case "epic":
+            return 40;
+        case "legendary":
+            return 50;
+    }
+}
+
+function calcMoveSpeed(shoes){
+    const BASE = 0;
+    const lv = shoes.lv;
+    const MOVE_SPEED_INCREASE_PER_LEVEL = 0.65;
+    const traitBonus = traitToTraitBonusMoveSpeed(shoes.equipmentInfo.trait);
+    let MoveSpeedResult = BASE + (lv - 1) * MOVE_SPEED_INCREASE_PER_LEVEL;
+    MoveSpeedResult += MoveSpeedResult * (traitBonus / 100);
+
+    return MoveSpeedResult;
+}
+
+function traitToTraitBonusHp(trait){
+    // common uncommon rare epic legendary
+    switch (trait) {
+        case "common":
+            return 10;
+        case "uncommon":
+            return 20;
+        case "rare":
+            return 30;
+        case "epic":
+            return 40;
+        case "legendary":
+            return 50;
+    }
+}
+
+function calcHp(jewelry){
+    const BASE = 10;
+    const lv = jewelry.lv;
+    const HP_INCREASE_PER_LEVEL = 0.5;
+    const traitBonus = traitToTraitBonusHp(jewelry.equipmentInfo.trait);
+    let HpResult = BASE + (lv - 1) * HP_INCREASE_PER_LEVEL;
+    HpResult += HpResult * (traitBonus / 100);
+
+    return HpResult;
+}
+
+function traitToTraitBonusDefense(trait){
+    // common uncommon rare epic legendary
+    switch (trait) {
+        case "common":
+            return 10;
+        case "uncommon":
+            return 20;
+        case "rare":
+            return 30;
+        case "epic":
+            return 40;
+        case "legendary":
+            return 50;
+    }
+}
+
+function calcDefense(equip){
+    const BASE = 10;
+    const lv = equip.lv;
+    const DEFENSE_INCREASE_PER_LEVEL = 0.8;
+    const traitBonus = traitToTraitBonusDefense(equip.equipmentInfo.trait);
+    let DefenseResult = BASE + (lv - 1) * DEFENSE_INCREASE_PER_LEVEL;
+    DefenseResult += DefenseResult * (traitBonus / 100);
+
+    return DefenseResult;
+}
+
 export { format, traitToString, typeToClass, levelAndTypeToAnimationId, calcMinAttackAndMaxAttack, calcPrice,
-    calcCrit, calcAttackSpeed }
+    calcCrit, calcAttackSpeed, calcMoveSpeed, calcHp, calcDefense }

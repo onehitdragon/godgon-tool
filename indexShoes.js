@@ -1,10 +1,10 @@
 import { XMLParser } from "fast-xml-parser";
 import fs from "fs";
 import translate from "@iamtraction/google-translate";
-import { format, traitToString, calcPrice, calcDefense } from "./myutil.js";
+import { format, traitToString, calcPrice, calcMoveSpeed } from "./myutil.js";
 import notifier from "node-notifier";
 
-const XMLdata = fs.readFileSync("xml/hat.xml").toString();
+const XMLdata = fs.readFileSync("xml/shoes.xml").toString();
 const parser = new XMLParser();
 let jObj = parser.parse(XMLdata);
 const jObjDatas = jObj.include.data;
@@ -24,29 +24,29 @@ start();
 async function start(){
     for(let i = 0; i < jObjDatas.length; i++){
         try{
-            const lang = await createHatLang(i, jObjDatas[i].name);
-            const hat = createHatObj(
+            const lang = await createShoesLang(i, jObjDatas[i].name);
+            const shoes = createShoesObj(
                 i,
                 lang.langId,
                 jObjDatas[i].needLevel,
                 jObjDatas[i].trait,
                 jObjDatas[i].miniImageID
             );
-            const defense = calcDefense(hat);
-            const price = calcPrice(hat);
-            hat.equipmentInfo.defense = Math.floor(defense);
-            hat.price = Math.floor(price);
-            result.push(hat);
+            const moveSpeed = calcMoveSpeed(shoes);
+            const price = calcPrice(shoes);
+            shoes.equipmentInfo.moveSpeed = Math.floor(moveSpeed);
+            shoes.price = Math.floor(price);
+            result.push(shoes);
         }
         catch(e){}
     }
-    fs.writeFileSync("out/hat.json", JSON.stringify(result));
-    fs.writeFileSync("out/hatLang.json", JSON.stringify(resultLang));
+    fs.writeFileSync("out/shoes.json", JSON.stringify(result));
+    fs.writeFileSync("out/shoesLang.json", JSON.stringify(resultLang));
     fs.writeFileSync("cache/cacheLang.json", JSON.stringify(Array.from(cacheLang.values())));
     console.log(result.length);
 }
 
-async function createHatLang(idx, name){
+async function createShoesLang(idx, name){
     if(langExisted.has(name)){
         return langExisted.get(name);
     }
@@ -54,7 +54,7 @@ async function createHatLang(idx, name){
     let lang;
     if(cacheLang.has(name)){
         lang = {
-            langId: "hatLang" + idx,
+            langId: "shoesLang" + idx,
             en: cacheLang.get(name).en,
             vi: cacheLang.get(name).vi
         }
@@ -63,7 +63,7 @@ async function createHatLang(idx, name){
         const resVi = await translate(name, { to: 'vi', raw: true });
         const resEn = await translate(name, { to: 'en' });
         lang = {
-            langId: "hatLang" + idx,
+            langId: "shoesLang" + idx,
             en: format(resEn.text),
             vi: format(resVi.text)
         }
@@ -80,7 +80,7 @@ async function createHatLang(idx, name){
     return lang;
 }
 
-function createHatObj(
+function createShoesObj(
     idx,
     langId,
     lv,
@@ -88,12 +88,12 @@ function createHatObj(
     miniImage
 ){
     return {
-        id: "hat" + idx,
+        id: "shoes" + idx,
         langId: langId,
         type: "equipment",
         lv: lv,
         equipmentInfo: {
-            type: "hat",
+            type: "shoes",
             trait: traitToString(trait)
         },
         miniImage: miniImage + ""

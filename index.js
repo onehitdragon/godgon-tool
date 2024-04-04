@@ -11,6 +11,11 @@ let jObj = parser.parse(XMLdata);
 const jObjDatas = jObj.include.data;
 const result = [];
 const langExisted = new Map();
+const cacheLangArray = JSON.parse(fs.readFileSync("cache/cacheLang.json").toString());
+const cacheLang = new Map();
+cacheLangArray.forEach((cl) => {
+    cacheLang.set(cl.target, cl);
+});
 const resultLang = {
     langItemDataNames: []
 }
@@ -20,10 +25,10 @@ start();
 async function start(){
     for(let i = 0; i < jObjDatas.length; i++){
         try{
-            //const lang = await createWeaponLang(i, jObjDatas[i].name);
+            const lang = await createWeaponLang(i, jObjDatas[i].name);
             const weapon = createWeaponObj(
                 i,
-                "lang.langId",
+                lang.langId,
                 jObjDatas[i].needLevel,
                 jObjDatas[i].trait,
                 jObjDatas[i].type,
@@ -42,10 +47,8 @@ async function start(){
     }
     fs.writeFileSync("out/weapon.json", JSON.stringify(result));
     fs.writeFileSync("out/weaponLang.json", JSON.stringify(resultLang));
-    notifier.notify({
-        title: 'Run complete',
-        message: "Run complete"
-    });
+    fs.writeFileSync("cache/cacheLang.json", JSON.stringify(Array.from(cacheLang.values())));
+    console.log(result.length);
 }
 
 function createWeaponObj(
@@ -75,12 +78,27 @@ async function createWeaponLang(idx, name){
         return langExisted.get(name);
     }
 
-    const resVi = await translate(name, { to: 'vi', raw: true });
-    const resEn = await translate(name, { to: 'en' });
-    const lang = {
-        langId: "weaponLang" + idx,
-        en: format(resEn.text),
-        vi: format(resVi.text)
+    let lang;
+    if(cacheLang.has(name)){
+        lang = {
+            langId: "weaponLang" + idx,
+            en: cacheLang.get(name).en,
+            vi: cacheLang.get(name).vi
+        }
+    }
+    else{
+        const resVi = await translate(name, { to: 'vi', raw: true });
+        const resEn = await translate(name, { to: 'en' });
+        lang = {
+            langId: "weaponLang" + idx,
+            en: format(resEn.text),
+            vi: format(resVi.text)
+        }
+        cacheLang.set(name, {
+            target: name,
+            en: lang.en,
+            vi: lang.vi
+        });
     }
     langExisted.set(name, lang);
     resultLang.langItemDataNames.push(lang);

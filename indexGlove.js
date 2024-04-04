@@ -35,8 +35,8 @@ async function start(){
             const crit = calcCrit(glove);
             const attackSpeed = calcAttackSpeed(glove);
             const price = calcPrice(glove);
-            glove.crit = Math.floor(crit);
-            glove.attackSpeed = Math.floor(attackSpeed);
+            glove.equipmentInfo.crit = Math.floor(crit);
+            glove.equipmentInfo.attackSpeed = Math.floor(attackSpeed);
             glove.price = price;
             result.push(glove);
         }
@@ -46,10 +46,6 @@ async function start(){
     fs.writeFileSync("out/gloveLang.json", JSON.stringify(resultLang));
     fs.writeFileSync("cache/cacheLang.json", JSON.stringify(Array.from(cacheLang.values())));
     console.log(result.length);
-    notifier.notify({
-        title: 'Run glove complete',
-        message: "Run glove complete"
-    });
 }
 
 async function createGloveLang(idx, name){

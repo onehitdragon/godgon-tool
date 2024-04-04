@@ -1,7 +1,6 @@
 import fs from "fs";
 
 const obj = JSON.parse(fs.readFileSync("out/weapon.json").toString());
-
 let swords = [];
 let swordsLevels = new Set();
 for(let i = 0; i < obj.length; i++){
@@ -12,6 +11,30 @@ for(let i = 0; i < obj.length; i++){
 }
 swordsLevels = Array.from(swordsLevels);
 swordsLevels.sort((a, b) => a - b);
+
+const obj2 = JSON.parse(fs.readFileSync("out/glove.json").toString());
+let gloves = [];
+for(let i = 0; i < obj2.length; i++){
+    gloves.push(obj2[i]);
+}
+
+const obj3 = JSON.parse(fs.readFileSync("out/jewelry.json").toString());
+let jewelries = [];
+for(let i = 0; i < obj3.length; i++){
+    jewelries.push(obj3[i]);
+}
+
+const obj4 = JSON.parse(fs.readFileSync("out/cloth.json").toString());
+let clothes = [];
+for(let i = 0; i < obj4.length; i++){
+    clothes.push(obj4[i]);
+}
+
+const obj5 = JSON.parse(fs.readFileSync("out/hat.json").toString());
+let hats = [];
+for(let i = 0; i < obj5.length; i++){
+    hats.push(obj5[i]);
+}
 
 function statistic1(){
     swordsLevels.forEach((swordsLevel) => {
@@ -32,16 +55,67 @@ function statistic1(){
     });
 }
 
-function statistic2(){
-    swordsLevels.forEach((swordsLevel) => {
-        console.log("level " + swordsLevel);
-        let totalDamage = 0;
-        const swf = swords.find((sw) => sw.lv == swordsLevel && sw.equipmentInfo.trait == "legendary");
-        if(!swf) return;
-        totalDamage += swf.equipmentInfo.minAttack;
-        console.log("totalDamage: " + totalDamage);
-        console.log("====================================================");
-    });
+function findEquipment(LEVEL, equipments){
+    for(let lv = LEVEL; lv > 0; lv--){
+        const eq = equipments.find((eq) => eq.lv == lv && eq.equipmentInfo.trait == "legendary");
+        if(eq) return eq;
+    }
 }
 
-statistic2();
+function calcMaxHealth(LEVEL){
+    let hpDefault = 300;
+    let maxHp = hpDefault;
+    maxHp += LEVEL * 100;
+
+    return maxHp;
+}
+
+function statistic2(LEVEL){
+    console.log("LEVEL: " + LEVEL);
+    
+    const weapon = findEquipment(LEVEL, swords);
+    if(!weapon) return;
+    const glove = findEquipment(LEVEL, gloves);
+    if(!glove) return;
+    const jewelry = findEquipment(LEVEL, jewelries);
+    if(!jewelry) return;
+    const cloth = findEquipment(LEVEL, clothes);
+    if(!cloth) return;
+    const hat = findEquipment(LEVEL, hats);
+    if(!hat) return;
+
+    let totalDamage = 0;
+    totalDamage += weapon.equipmentInfo.maxAttack;
+    console.log("weaponLevel: " + weapon.lv);
+    console.log("gloveLevel: " + glove.lv);
+    console.log("totalDamage: " + totalDamage);
+    console.log("crit: " + glove.equipmentInfo.crit + "%");
+    console.log("attackSpeed: " + glove.equipmentInfo.attackSpeed + "%");
+    const baseAttackSpeed = 50 / 25; // 2 times / 1s
+    const attackSpeedTime = 25 - (25 / 2) * (glove.equipmentInfo.attackSpeed / 100);
+    const attackSpeedDetail = 50 / attackSpeedTime;
+    console.log("attackSpeedTime: " + attackSpeedTime);
+    console.log("attackSpeedDetail: " + attackSpeedDetail + " times/s");
+
+    let originHp = calcMaxHealth(LEVEL);
+    const totalHp = originHp + originHp * (jewelry.equipmentInfo.hp / 100);
+    console.log("");
+    console.log("jewelryLevel: " + jewelry.lv);
+    console.log("totalHp: " + totalHp);
+    console.log("originHp: " + originHp);
+    console.log("hp: " + jewelry.equipmentInfo.hp + "%");
+
+    // const totalDefense = cloth.equipmentInfo.defense + hat.equipmentInfo.defense;
+
+    return {
+        totalDamage: totalDamage,
+        totalHp: totalHp
+    };
+}
+
+for(let lv = 1; lv <= 80; lv++){
+    statistic2(lv);
+    console.log("====================================================");
+}
+
+export { statistic2 }

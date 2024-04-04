@@ -1,7 +1,7 @@
 import { XMLParser } from "fast-xml-parser";
 import fs from "fs";
 import translate from "@iamtraction/google-translate";
-import { format, traitToString, calcPrice } from "./myutil.js";
+import { format, traitToString, calcPrice, calcDefense } from "./myutil.js";
 import notifier from "node-notifier";
 
 const XMLdata = fs.readFileSync("xml/clothes.xml").toString();
@@ -33,8 +33,9 @@ async function start(){
                 jObjDatas[i].equipmentImageID,
                 jObjDatas[i].miniImageID
             );
+            const defense = calcDefense(cloth);
             const price = calcPrice(cloth);
-            cloth.defense = 0;
+            cloth.equipmentInfo.defense = Math.floor(defense);
             cloth.price = Math.floor(price);
             result.push(cloth);
         }
@@ -44,10 +45,6 @@ async function start(){
     fs.writeFileSync("out/clothLang.json", JSON.stringify(resultLang));
     fs.writeFileSync("cache/cacheLang.json", JSON.stringify(Array.from(cacheLang.values())));
     console.log(result.length);
-    notifier.notify({
-        title: 'Run cloth complete',
-        message: "Run cloth complete"
-    });
 }
 
 async function createClothLang(idx, name){

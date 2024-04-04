@@ -1,7 +1,7 @@
 import { XMLParser } from "fast-xml-parser";
 import fs from "fs";
 import translate from "@iamtraction/google-translate";
-import { format, traitToString, calcPrice } from "./myutil.js";
+import { format, traitToString, calcPrice, calcHp } from "./myutil.js";
 import notifier from "node-notifier";
 
 const XMLdata = fs.readFileSync("xml/necklace.xml").toString();
@@ -32,9 +32,10 @@ async function start(){
                 jObjDatas[i].trait,
                 jObjDatas[i].miniImageID
             );
+            const hp = calcHp(jewelry);
             const price = calcPrice(jewelry);
-            jewelry.hp = 0; //percent
-            jewelry.mp = 0; //percent
+            jewelry.equipmentInfo.hp = Math.floor(hp); //percent
+            jewelry.equipmentInfo.mp = 0; //percent
             jewelry.price = Math.floor(price);
             result.push(jewelry);
         }
@@ -44,10 +45,6 @@ async function start(){
     fs.writeFileSync("out/jewelryLang.json", JSON.stringify(resultLang));
     fs.writeFileSync("cache/cacheLang.json", JSON.stringify(Array.from(cacheLang.values())));
     console.log(result.length);
-    notifier.notify({
-        title: 'Run jewelry complete',
-        message: "Run jewelry complete"
-    });
 }
 
 async function createJewelryLang(idx, name){
