@@ -105,7 +105,9 @@ function statistic2(LEVEL){
     console.log("originHp: " + originHp);
     console.log("hp: " + jewelry.equipmentInfo.hp + "%");
 
-    // const totalDefense = cloth.equipmentInfo.defense + hat.equipmentInfo.defense;
+    const totalDefense = cloth.equipmentInfo.defense + hat.equipmentInfo.defense;
+    console.log("");
+    console.log("totalDefense: " + totalDefense + "%");
 
     return {
         totalDamage: totalDamage,

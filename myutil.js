@@ -339,9 +339,9 @@ function traitToTraitBonusDefense(trait){
 }
 
 function calcDefense(equip){
-    const BASE = 10;
+    const BASE = 1;
     const lv = equip.lv;
-    const DEFENSE_INCREASE_PER_LEVEL = 0.8;
+    const DEFENSE_INCREASE_PER_LEVEL = 0.4;
     const traitBonus = traitToTraitBonusDefense(equip.equipmentInfo.trait);
     let DefenseResult = BASE + (lv - 1) * DEFENSE_INCREASE_PER_LEVEL;
     DefenseResult += DefenseResult * (traitBonus / 100);

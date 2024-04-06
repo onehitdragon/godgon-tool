@@ -89,7 +89,7 @@ function calcHp(monster){
 }
 
 function calcMinAttackAndMaxAttack(monster){
-    const DIFFICULT = 0.05;
+    const DIFFICULT = 0.02;
     const MIN_MAX_RATE = 10;
     const lv = monster.lv;
     const totalHp = statistic2(lv).totalHp;
