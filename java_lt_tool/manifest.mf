@@ -1,0 +1,6 @@
+MIDlet-Name: IMletDemo
+MIDlet-Version: 1.0
+MIDlet-Vendor: Company Inc.
+MIDlet-1: IMletDemo,,imletdemo.IMletDemo
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: MEEP-8.0

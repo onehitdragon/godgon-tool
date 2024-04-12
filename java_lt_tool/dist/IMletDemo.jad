@@ -1,0 +1,6 @@
+MIDlet-Name: IMletDemo
+MIDlet-Version: 1.0
+MIDlet-Vendor: Company Inc.
+MIDlet-1: IMletDemo,,imletdemo.IMletDemo
+MIDlet-Jar-Size: 1021
+MIDlet-Jar-URL: IMletDemo.jar

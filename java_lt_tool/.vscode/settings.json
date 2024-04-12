@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\WTK2.5.2\\lib\\midpapi21.jar"
+    ]
+}

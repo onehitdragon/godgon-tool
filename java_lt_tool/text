@@ -1,0 +1,5 @@
+"%JAVA_HOME%"\javac -bootclasspath "%JAVAME_SDK_HOME%"\lib\cldc_1.8.jar;"%JAVAME_SDK_HOME%"\lib\meep_8.0.jar -d classes IMletDemo.java
+
+"%JAVA_HOME%"\jar cfm dist\IMletDemo.jar manifest.mf -C classes .
+
+"%JAVAME_SDK_HOME%"\bin\emulator.exe -Xdescriptor:C:\Users\Admin\Desktop\code\godgon-crawl\java_lt_tool\dist\IMletDemo.jad
